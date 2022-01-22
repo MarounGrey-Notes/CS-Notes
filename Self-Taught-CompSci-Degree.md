@@ -1,24 +1,25 @@
 Not wanting to return to school, I want to explore the field of Computer Science. This is my planned reading list:
 [collection of suggestions from reddit]
 
-🟣 - Stuff for kids or very entry level??
+🔴 -
+🟣 - Stuff for kids or very entry level??<br>
 ✅ - Done
 
-### Computer Science
+# Computer Science
 
-##### Universities recources
+### Universities recources
 
-1. 🔴 Concepts, Techniques, and Models of Computer Programming https://www.info.ucl.ac.be/~pvr/book.html
-2. 🔴 Foundations of Computer Science http://infolab.stanford.edu/~ullman/focs.html
-3. 🔴 Structure and Interpretation of Computer Programs https://mitpress.mit.edu/sites/default/files/sicp/index.html
+1. Concepts, Techniques, and Models of Computer Programming https://www.info.ucl.ac.be/~pvr/book.html
+2. Foundations of Computer Science http://infolab.stanford.edu/~ullman/focs.html
+3. Structure and Interpretation of Computer Programs https://mitpress.mit.edu/sites/default/files/sicp/index.html
 
-##### Online Courses
+### Online Courses
 
 1. MIT Opencourseware https://ocw.mit.edu/courses/audio-video-courses/#electrical-engineering-and-computer-science
 2. USNW - Elearning https://www.youtube.com/user/UNSWelearning
 
 
-##### The Softer Side
+### The Softer Side
 
 1. Anathem https://www.amazon.com/Anathem-Neal-Stephenson/dp/B003B3NW7G
 2. Cryptonomicon https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0380788624
@@ -28,7 +29,7 @@ Not wanting to return to school, I want to explore the field of Computer Science
 6. How the Mind Works https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/0393318486
 
 
-##### Introduction
+### Introduction
 
 1. Google's Exploring Computational Thinking https://edu.google.com/resources/programs/exploring-computational-thinking/
 2. 🟣 Land of LISP https://www.amazon.com/Land-Lisp-Learn-Program-Game/dp/1593272812
@@ -39,13 +40,13 @@ Not wanting to return to school, I want to explore the field of Computer Science
 7. The Little Schemer - 4th Edition https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992
 
 
-##### Mid-Range
+### Mid-Range
 
 1. Introduction to Automata Theory, Languages, and Computation https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321462254
 2. Introduction to Algorithms https://www.amazon.com/Introduction-Algorithms-Electrical-Engineering-Computer/dp/0262031418
 
 
-##### OMG my Brain!
+### OMG my Brain!
 
 1. Concrete Mathematics: A Foundation for Computer Science https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025
 2. Computational Complexity - A Modern Approach https://www.amazon.com/Computational-Complexity-Approach-Sanjeev-Arora/dp/0521424267
@@ -53,9 +54,9 @@ Not wanting to return to school, I want to explore the field of Computer Science
 4. The Art of Computer Programming (Vol 1-3 (& 4)) https://www.amazon.com/Art-Computer-Programming-Volumes-Boxed/dp/0201485419
 
 
-### Self-Taught Developer Must-Reads
+# Self-Taught Developer Must-Reads
 
-##### Must Read Books for Becoming a Better Software Developer
+### Must Read Books for Becoming a Better Software Developer
 
 1. Clean Code: A Handbook of Agile Software Craftsmanship https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X8ZXT15
 2. The Clean Coder: A Code of Conduct for Professional Programmers https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/B08X7MNTCX/ref=sr_1_1?crid=B2MM13LPY5OM&keywords=clean+coder+book&qid=1642893809&s=audible&sprefix=clean+coder+boo%2Caudible%2C114&sr=1-1
@@ -66,16 +67,25 @@ Not wanting to return to school, I want to explore the field of Computer Science
 7. Refactoring: Improving the Design of Existing Code https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=3HVKSECIJ2HS9&keywords=Refactoring%3A+Improving+the+Design+of+Existing+Code&qid=1642894112&s=audible&sprefix=refactoring+improving+the+design+of+existing+code%2Caudible%2C114&sr=1-1
 8. ✅Soft Skills: The Software Developer's Life Manual https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B09BP6JWTQ/ref=sr_1_1?keywords=soft+skills+the+software+developer%27s+life+manual&qid=1642894215&s=audible&sprefix=soft+skills+%2Caudible%2C107&sr=1-1
 
-
-##### Front-End
+### Front-End
 
 1. The Design of Everyday Things: https://www.amazon.com/Design-of-Everyday-Things-audiobook/dp/B07L5Y9HND/ref=sr_1_2?crid=2PGIV3PBTT8RW&keywords=dont+make+me+think&qid=1642894481&s=audible&sprefix=dont+ma%2Caudible%2C115&sr=1-2
 2. ✅Don't Make Me Think: A Common Sense Approach to Web Usability https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/9332542864/ref=sr_1_4?crid=2IZCIOVE5LFLY&keywords=dont+make+me+think+steve+krug&qid=1642894570&s=audible&sprefix=dont+make+me+think%2Caudible%2C99&sr=1-4-catcorr
 3. Laws of UX: Using Psychology to Design Better Products & Services https://www.amazon.com/Laws-UX-Psychology-Products-Services/dp/B09B48MWN6/ref=sr_1_1?crid=305N5E3ZNGV32&keywords=laws+of+ux&qid=1642894620&s=audible&sprefix=laws+of+ux%2Caudible%2C113&sr=1-1
 
-##### META
+### Game Development
 
-###### I'm looking for a good book on algorithms. Suggestions? 
+1. The Art of Game Design https://www.amazon.com/Art-Game-Design-Lenses-Third/dp/1138632058
+2. Level Up! The Guide to Great Video Game Design https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1118877160/ref=sr_1_3?crid=19OS3SNC745T9&keywords=level+up+book&qid=1642895116&s=books&sprefix=level+u+book%2Cstripbooks%2C140&sr=1-3
+
+### Business / Marketing
+
+1.How to Build a Billion Dollar App https://www.amazon.com/How-Build-Billion-Dollar-App/dp/0349401373/ref=sr_1_3?crid=1YEY50EBR2Z3R&keywords=how+to+build+a+billion+dollar+app&qid=1642895211&s=books&sprefix=how+to+build+a+bill%2Cstripbooks%2C124&sr=1-3
+
+
+# META
+
+#### I'm looking for a good book on algorithms. Suggestions? 
 https://www.reddit.com/r/programming/comments/cawpi/im_looking_for_a_good_book_on_algorithms/c0rbq7g/
 
 1. Algorithms in c++ (Author has a number of good "Algorithms in (Pascal/C/C++)" style books) https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882
@@ -86,8 +96,7 @@ https://www.reddit.com/r/programming/comments/cawpi/im_looking_for_a_good_book_o
 6. Approximation Algorithms https://books.google.com/books?id=EILqAmzKgYIC&dq=vazirani+approximation&printsec=frontcover&source=bn&hl=en&ei=cMAHTKbuC4T68AaW9ZzHAQ&sa=X&oi=book_result&ct=result#v=onepage&q&f=false
 7. Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology https://www.amazon.com/Algorithms-Strings-Trees-Sequences-Computational/dp/0521585198/ref=sr_1_1?ie=UTF8&s=books&qid=1275597512&sr=1-1
 
-
-###### What is the single most influential book every programmer should read? Stack Overflow
+#### What is the single most influential book every programmer should read? Stack Overflow
 
 https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
