@@ -1,3 +1,5 @@
+Books that I bought but didnt read yet...
+
 # Good Reads For Beginner Software Dev
 
 Soft Skills for Software Developers - John Sonmez<br>
