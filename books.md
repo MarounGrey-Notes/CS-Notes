@@ -3,21 +3,6 @@ My Reading List
 🟣 - Started But haven't finished. <br>
 ✔️ - Finished!
 
-# Information Security
-
-### Hacking
-
-1. ✔️Art of Invisibility - Kevin Mitnick<br>
-2. ✔️Art of Intrusion - Kevin Mitnick<br>
-3. Art of Deception - Kevin Mitnick<br>
-4. Ghost in the wires - Kevin Mitnick<br>
-5. Extreme Privacy - Michael Bazell<br>
-6. Hardware Hacking: Have Fun While Voiding Your Warranty https://www.amazon.com/Hardware-Hacking-Warranty-published-Syngress/dp/B00EKYNBV2/ref=sr_1_1?crid=3C91N90IMPKV&keywords=hardware+hacking+kevin&qid=1642900668&s=books&sprefix=hardware+hacking+kevin%2Cstripbooks%2C121&sr=1-1
-
-### Private investigation
-1. ✔️51 Dirty Tricks Bad Guys Really Hate: Sneaky Tactics used by Police, Private Investigators and Bounty Hunters https://www.amazon.com/Dirty-Tricks-Guys-Really-Hate-ebook/dp/B00QEFXY8K/ref=sr_1_1?keywords=51+dirty+tricks+bad+guys+really+hate&qid=1642899226&s=digital-text&sprefix=51+dirty%2Cdigital-text%2C105&sr=1-1
-2. 🟣The Complete Idiot's Guide to Private Investigating, Third Edition: Discover How the Pros Uncover the Facts and Get to the Truth https://www.amazon.com/Complete-Idiots-Guide-Private-Investigating-ebook/dp/B00BMWKSIO/ref=sr_1_1?crid=30LEGW8B9CYFF&keywords=complete+idiot%27s+guide+to+private&qid=1642899336&s=digital-text&sprefix=complete+idiot%27s+guide+to+privat%2Cdigital-text%2C110&sr=1-1
-
 # Financial
 
 ### Starting business books
@@ -67,6 +52,22 @@ My Reading List
 4. Basic Physics - Karl F. Kuhn
 ### Biographies
 🟣Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?crid=28DEV6KLY6K7Z&keywords=elon+musk&qid=1642899290&s=digital-text&sprefix=elon+musk%2Cdigital-text%2C108&sr=1-1
+
+
+# Information Security
+
+### Hacking
+
+1. ✔️Art of Invisibility - Kevin Mitnick<br>
+2. ✔️Art of Intrusion - Kevin Mitnick<br>
+3. Art of Deception - Kevin Mitnick<br>
+4. Ghost in the wires - Kevin Mitnick<br>
+5. Extreme Privacy - Michael Bazell<br>
+6. Hardware Hacking: Have Fun While Voiding Your Warranty https://www.amazon.com/Hardware-Hacking-Warranty-published-Syngress/dp/B00EKYNBV2/ref=sr_1_1?crid=3C91N90IMPKV&keywords=hardware+hacking+kevin&qid=1642900668&s=books&sprefix=hardware+hacking+kevin%2Cstripbooks%2C121&sr=1-1
+
+### Private investigation
+1. ✔️51 Dirty Tricks Bad Guys Really Hate: Sneaky Tactics used by Police, Private Investigators and Bounty Hunters https://www.amazon.com/Dirty-Tricks-Guys-Really-Hate-ebook/dp/B00QEFXY8K/ref=sr_1_1?keywords=51+dirty+tricks+bad+guys+really+hate&qid=1642899226&s=digital-text&sprefix=51+dirty%2Cdigital-text%2C105&sr=1-1
+2. 🟣The Complete Idiot's Guide to Private Investigating, Third Edition: Discover How the Pros Uncover the Facts and Get to the Truth https://www.amazon.com/Complete-Idiots-Guide-Private-Investigating-ebook/dp/B00BMWKSIO/ref=sr_1_1?crid=30LEGW8B9CYFF&keywords=complete+idiot%27s+guide+to+private&qid=1642899336&s=digital-text&sprefix=complete+idiot%27s+guide+to+privat%2Cdigital-text%2C110&sr=1-1
 
 # Travelling
 
