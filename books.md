@@ -1,5 +1,8 @@
 My Reading List
 
+🟣 - Started But didn't finished. <br>
+✔️ - Finished!
+
 # Information Security
 
 ### Hacking
@@ -11,8 +14,8 @@ Ghost in the wires - Kevin Mitnick<br>
 Extreme Privacy - Michael Bazell<br>
 
 ### Private investigation
-1.✔️ 51 Dirty Tricks Bad Guys Really Hate: Sneaky Tactics used by Police, Private Investigators and Bounty Hunters https://www.amazon.com/Dirty-Tricks-Guys-Really-Hate-ebook/dp/B00QEFXY8K/ref=sr_1_1?keywords=51+dirty+tricks+bad+guys+really+hate&qid=1642899226&s=digital-text&sprefix=51+dirty%2Cdigital-text%2C105&sr=1-1
-2. The Complete Idiot's Guide to Private Investigating, Third Edition: Discover How the Pros Uncover the Facts and Get to the Truth https://www.amazon.com/Complete-Idiots-Guide-Private-Investigating-ebook/dp/B00BMWKSIO/ref=sr_1_1?crid=30LEGW8B9CYFF&keywords=complete+idiot%27s+guide+to+private&qid=1642899336&s=digital-text&sprefix=complete+idiot%27s+guide+to+privat%2Cdigital-text%2C110&sr=1-1
+1. ✔️51 Dirty Tricks Bad Guys Really Hate: Sneaky Tactics used by Police, Private Investigators and Bounty Hunters https://www.amazon.com/Dirty-Tricks-Guys-Really-Hate-ebook/dp/B00QEFXY8K/ref=sr_1_1?keywords=51+dirty+tricks+bad+guys+really+hate&qid=1642899226&s=digital-text&sprefix=51+dirty%2Cdigital-text%2C105&sr=1-1
+2. 🟣The Complete Idiot's Guide to Private Investigating, Third Edition: Discover How the Pros Uncover the Facts and Get to the Truth https://www.amazon.com/Complete-Idiots-Guide-Private-Investigating-ebook/dp/B00BMWKSIO/ref=sr_1_1?crid=30LEGW8B9CYFF&keywords=complete+idiot%27s+guide+to+private&qid=1642899336&s=digital-text&sprefix=complete+idiot%27s+guide+to+privat%2Cdigital-text%2C110&sr=1-1
 
 # Financial
 
@@ -23,7 +26,7 @@ Extreme Privacy - Michael Bazell<br>
 3. The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future https://www.amazon.com/100-Startup-Reinvent-Living-Create/dp/0307951529/ref=sr_1_2?crid=2FTX2LSJGKCCL&keywords=100+startup&qid=1642899772&sprefix=100+startup%2Caps%2C136&sr=8-2
 4. The 60-Minute Tech Startup: How to Start a Tech Company As a Side Hustle in One Hour a Day and Get Customers in Thirty Days https://www.amazon.com/60-Minute-Tech-Startup-Customers-Entrepreneurship-ebook/dp/B088MLHBRJ/ref=sr_1_3?crid=1Z63YOC2H0ZGG&keywords=60+minute+tech+startup&qid=1642899815&sprefix=60+minute+tech+startup%2Caps%2C119&sr=8-3
 5. Passive Income Ideas: 101 Passive Income Ideas Under $1000 https://www.amazon.com/Passive-Income-Ideas-Under-1000/dp/173072681X/ref=sr_1_2?crid=3PNIY9J7YSCDR&keywords=101+passive&qid=1642899854&sprefix=101+passive+%2Caps%2C127&sr=8-2
-6. Passive Income, Aggressive Retirement: The Secret to Freedom, Flexibility, and Financial Independence https://www.amazon.com/Passive-Income-Aggressive-Retirement-Independence/dp/1706203020/ref=sr_1_3?crid=11I0BUXX20FQR&keywords=aggressive+retirement&qid=1642899911&sprefix=aggressive+retirement%2Caps%2C121&sr=8-3
+6. 🟣Passive Income, Aggressive Retirement: The Secret to Freedom, Flexibility, and Financial Independence https://www.amazon.com/Passive-Income-Aggressive-Retirement-Independence/dp/1706203020/ref=sr_1_3?crid=11I0BUXX20FQR&keywords=aggressive+retirement&qid=1642899911&sprefix=aggressive+retirement%2Caps%2C121&sr=8-3
 
 ### Real Estate
 1. Flipping Houses For Dummies https://www.amazon.com/Flipping-Houses-Dummies-Ralph-Roberts-ebook/dp/B06XRW8PWN/ref=sr_1_1_sspa?crid=21MOH71HLB0AJ&keywords=house+flipping+for+dummies&qid=1642899970&sprefix=house+flipping+for+dummies%2Caps%2C114&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTlFGMFQxS0VZS1hNJmVuY3J5cHRlZElkPUEwMjMxNjg1MVlYR1JPN1VDUzJRUiZlbmNyeXB0ZWRBZElkPUEwMTg1MzQzMTROTTNIMU5aMEVRMyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
@@ -59,14 +62,19 @@ Extreme Privacy - Michael Bazell<br>
 3. Quick Calculus - Daniel Kleppner
 4. Basic Physics - Karl F. Kuhn
 ### Biographies
-Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?crid=28DEV6KLY6K7Z&keywords=elon+musk&qid=1642899290&s=digital-text&sprefix=elon+musk%2Cdigital-text%2C108&sr=1-1
+🟣Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?crid=28DEV6KLY6K7Z&keywords=elon+musk&qid=1642899290&s=digital-text&sprefix=elon+musk%2Cdigital-text%2C108&sr=1-1
 
 # Travelling
 
+1.✔️ Wild: From Lost to Found on the Pacific Crest Trail https://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073/ref=sr_1_1?crid=17GCTAMBIQ209&keywords=wild+strayed&qid=1642900112&sprefix=wild+strayed%2Caps%2C110&sr=8-1
 2. A Beginner's Guide to Living in an RV: Everything I Wish I Knew Before Full-Time RVing Across America  https://www.amazon.com/Beginners-Guide-Living-Everything-Full-Time-ebook/dp/B0778WS6X4/ref=sr_1_3?crid=8HTJC0DTQNH0&keywords=living+in+rv&qid=1642899401&s=digital-text&sprefix=living+in+rv%2Cdigital-text%2C153&sr=1-3
 3. Pacific Crest Trail Data Book: Mileages, Landmarks, Facilities, Resupply Data, and Essential Trail Information for the Entire Pacific Crest Trail, from Mexico to Canada https://www.amazon.com/Pacific-Crest-Trail-Data-Book/dp/0899979017/ref=sr_1_3?keywords=pacific+crest+trail+data+book&qid=1642899585&sprefix=pacific+crest+trail+data+%2Caps%2C122&sr=8-3
+4. 🟣Into the Wild https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804/ref=sr_1_1?keywords=into+the+wild&qid=1642900138&s=books&sprefix=into+the+wild%2Cstripbooks%2C122&sr=1-1
+5. Into Thin Air: A Personal Account of the Mt. Everest Disaster https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785/ref=pd_bxgy_img_1/130-2763341-2178747?pd_rd_w=K5KML&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=7D653CTHF4N3350S2DX2&pd_rd_r=776158c2-1007-420e-a53f-a19d8033e844&pd_rd_wg=GHIhp&pd_rd_i=0385494785&psc=1
 
 # Fantasy
+1. ✔️ A Game of Thrones (A Song of Ice and Fire, Book 1) https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553381687/ref=sr_1_3?crid=3GAMBJL4EOK1W&keywords=game+of+thrones+book&qid=1642900387&s=books&sprefix=game+of+thrones+book%2Cstripbooks%2C104&sr=1-3
+2. 🟣A Clash of Kings: A Song of Ice and Fire: Book Two https://www.amazon.com/Clash-Kings-HBO-Tie-Song/dp/0345535413/ref=pd_bxgy_img_1/130-2763341-2178747?pd_rd_w=5lIRP&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=YNE32CBHMM3CK8S59DX7&pd_rd_r=3205ece1-4f3d-415a-83b6-09bc7e0240b3&pd_rd_wg=E4EO2&pd_rd_i=0345535413&psc=1
 
 # Random Stuff
 
