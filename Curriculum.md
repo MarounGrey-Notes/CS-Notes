@@ -1,5 +1,6 @@
 # Self learning CS bachelors curriculum checklist
-https://csd.cmu.edu/undergraduate/bachelors-curriculum-admitted-2014-2015-2016#CS
+Curriculum https://csd.cmu.edu/undergraduate/bachelors-curriculum-admitted-2014-2015-2016#CS
+Universities where you can get online CS degree https://info.computerscience.org/app/experience/?publisher=computerscience.org&url=https%3A%2F%2Fwww.computerscience.org%2Fdegrees%2Fbest-online-bachelors%2F&degree=bachelors&category=computers-and-technology&subject=computer-science&correlationId=23b665cd-6140-46ee-9382-f69d2ab2d0dd&trafficSource=organic&ref_anon=a0dd4007-08ed-4e51-bad5-7a777c79385f&ref_inst=d76b5a14-6ccd-4abb-ac15-929918c06588&ref_sess=f8017e16-a7c1-4b89-b42c-617a27fe87ce&ref_tenant=ff0efeb0-a092-4a87-a5de-84ccc4192284&transit_id=34032f34-d322-43bd-ba30-b21e2da39911
 
 ## Computer Science
 The following computer science courses are required:
