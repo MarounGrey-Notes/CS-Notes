@@ -66,7 +66,7 @@ Extreme Privacy - Michael Bazell<br>
 
 # Travelling
 
-1.✔️ Wild: From Lost to Found on the Pacific Crest Trail https://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073/ref=sr_1_1?crid=17GCTAMBIQ209&keywords=wild+strayed&qid=1642900112&sprefix=wild+strayed%2Caps%2C110&sr=8-1
+1. ✔️Wild: From Lost to Found on the Pacific Crest Trail https://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073/ref=sr_1_1?crid=17GCTAMBIQ209&keywords=wild+strayed&qid=1642900112&sprefix=wild+strayed%2Caps%2C110&sr=8-1
 2. A Beginner's Guide to Living in an RV: Everything I Wish I Knew Before Full-Time RVing Across America  https://www.amazon.com/Beginners-Guide-Living-Everything-Full-Time-ebook/dp/B0778WS6X4/ref=sr_1_3?crid=8HTJC0DTQNH0&keywords=living+in+rv&qid=1642899401&s=digital-text&sprefix=living+in+rv%2Cdigital-text%2C153&sr=1-3
 3. Pacific Crest Trail Data Book: Mileages, Landmarks, Facilities, Resupply Data, and Essential Trail Information for the Entire Pacific Crest Trail, from Mexico to Canada https://www.amazon.com/Pacific-Crest-Trail-Data-Book/dp/0899979017/ref=sr_1_3?keywords=pacific+crest+trail+data+book&qid=1642899585&sprefix=pacific+crest+trail+data+%2Caps%2C122&sr=8-3
 4. 🟣Into the Wild https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804/ref=sr_1_1?keywords=into+the+wild&qid=1642900138&s=books&sprefix=into+the+wild%2Cstripbooks%2C122&sr=1-1
