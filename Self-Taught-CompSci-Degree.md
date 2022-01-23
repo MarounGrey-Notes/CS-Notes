@@ -1,8 +1,8 @@
 Not wanting to return to school, I want to explore the field of Computer Science. This is my planned reading list:
 [collection of suggestions from reddit]
 
-🔴 - <br>
-🟣 - Stuff for kids or very entry level??<br>
+🔴 - Books that I have but havent read yet<br>
+🟣 - Stuff for kids or very entry level<br>
 ✅ - Done
 
 # Computer Science
@@ -74,6 +74,8 @@ Not wanting to return to school, I want to explore the field of Computer Science
 1. The Design of Everyday Things: https://www.amazon.com/Design-of-Everyday-Things-audiobook/dp/B07L5Y9HND/ref=sr_1_2?crid=2PGIV3PBTT8RW&keywords=dont+make+me+think&qid=1642894481&s=audible&sprefix=dont+ma%2Caudible%2C115&sr=1-2
 2. ✅Don't Make Me Think: A Common Sense Approach to Web Usability https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/9332542864/ref=sr_1_4?crid=2IZCIOVE5LFLY&keywords=dont+make+me+think+steve+krug&qid=1642894570&s=audible&sprefix=dont+make+me+think%2Caudible%2C99&sr=1-4-catcorr
 3. Laws of UX: Using Psychology to Design Better Products & Services https://www.amazon.com/Laws-UX-Psychology-Products-Services/dp/B09B48MWN6/ref=sr_1_1?crid=305N5E3ZNGV32&keywords=laws+of+ux&qid=1642894620&s=audible&sprefix=laws+of+ux%2Caudible%2C113&sr=1-1
+4. ✅Less is More - viction:ary https://books.google.com/books/about/Less_is_More.html?id=hasxMQAACAAJ
+5. ✅Nice to meet you again - viction:ary https://www.google.com/books/edition/Nice_to_Meet_You_Again/XiMdswEACAAJ?hl=en
 
 ### Game Development
 
@@ -83,7 +85,7 @@ Not wanting to return to school, I want to explore the field of Computer Science
 ### Business / Marketing
 
 1.How to Build a Billion Dollar App https://www.amazon.com/How-Build-Billion-Dollar-App/dp/0349401373/ref=sr_1_3?crid=1YEY50EBR2Z3R&keywords=how+to+build+a+billion+dollar+app&qid=1642895211&s=books&sprefix=how+to+build+a+bill%2Cstripbooks%2C124&sr=1-3
-
+2.
 
 # META
 
