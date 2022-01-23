@@ -1,6 +1,6 @@
 My Reading List
 
-🟣 - Started But didn't finished. <br>
+🟣 - Started But haven't finished. <br>
 ✔️ - Finished!
 
 # Information Security
