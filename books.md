@@ -7,11 +7,12 @@ My Reading List
 
 ### Hacking
 
-✔️Art of Invisibility - Kevin Mitnick<br>
-✔️Art of Intrusion - Kevin Mitnick<br>
-Art of Deception - Kevin Mitnick<br>
-Ghost in the wires - Kevin Mitnick<br>
-Extreme Privacy - Michael Bazell<br>
+1. ✔️Art of Invisibility - Kevin Mitnick<br>
+2. ✔️Art of Intrusion - Kevin Mitnick<br>
+3. Art of Deception - Kevin Mitnick<br>
+4. Ghost in the wires - Kevin Mitnick<br>
+5. Extreme Privacy - Michael Bazell<br>
+6. Hardware Hacking: Have Fun While Voiding Your Warranty https://www.amazon.com/Hardware-Hacking-Warranty-published-Syngress/dp/B00EKYNBV2/ref=sr_1_1?crid=3C91N90IMPKV&keywords=hardware+hacking+kevin&qid=1642900668&s=books&sprefix=hardware+hacking+kevin%2Cstripbooks%2C121&sr=1-1
 
 ### Private investigation
 1. ✔️51 Dirty Tricks Bad Guys Really Hate: Sneaky Tactics used by Police, Private Investigators and Bounty Hunters https://www.amazon.com/Dirty-Tricks-Guys-Really-Hate-ebook/dp/B00QEFXY8K/ref=sr_1_1?keywords=51+dirty+tricks+bad+guys+really+hate&qid=1642899226&s=digital-text&sprefix=51+dirty%2Cdigital-text%2C105&sr=1-1
@@ -46,9 +47,12 @@ Extreme Privacy - Michael Bazell<br>
 
 1. How to win friends, influence people - Dale Carnegie<br>
 2. Self-Confidence workbook - Barbara Markway<br>
+3. Scam School: Your Guide to Scoring Free Drinks, Doing Magic & Becoming the Life of the Party https://www.amazon.com/Scam-School-Guide-Scoring-Drinks/dp/1620878542/ref=sr_1_1?crid=2EEBPB1VNQZ4N&keywords=scam+school&qid=1642900586&s=books&sprefix=scam+school%2Cstripbooks%2C101&sr=1-1
 
 ### Dating 
 1. Single is your superpower https://newmindsetwhodis.com/products/single-is-your-superpower
+2. Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139/ref=sr_1_2?crid=EOBV30LDMURE&keywords=attached+book&qid=1642900762&s=books&sprefix=attached+book%2Cstripbooks%2C116&sr=1-2
+3. Why Men Love Bitches: From Doormat to Dreamgirl―A Woman's Guide to Holding Her Own in a Relationship https://www.amazon.com/Why-Men-Love-Bitches-Relationship/dp/1580627560/ref=sr_1_1?crid=2QTDRAR6MF0ZX&keywords=why+men+love+bitches&qid=1642900807&s=books&sprefix=why+men+love+bitchs%2Cstripbooks%2C129&sr=1-1
 
 ### Selling
 1. The Art of Text Message Selling: The 23 Secrets to Dominating Social Selling https://www.amazon.com/Art-Text-Message-Selling-Dominating-ebook/dp/B07KLRX3N7/ref=sr_1_2?keywords=art+of+text+message+selling&qid=1642899531&sprefix=art+of+text+%2Caps%2C121&sr=8-2
