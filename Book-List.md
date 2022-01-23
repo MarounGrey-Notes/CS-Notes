@@ -1,4 +1,4 @@
-My Reading List
+My Book List
 
 🟣 - Started But haven't finished. <br>
 ✔️ - Finished!
