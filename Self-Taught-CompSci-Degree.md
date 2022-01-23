@@ -1,7 +1,7 @@
 Not wanting to return to school, I want to explore the field of Computer Science. This is my planned reading list:
 [collection of suggestions from reddit]
 
-🔴 -
+🔴 - <br>
 🟣 - Stuff for kids or very entry level??<br>
 ✅ - Done
 
@@ -17,6 +17,8 @@ Not wanting to return to school, I want to explore the field of Computer Science
 
 1. MIT Opencourseware https://ocw.mit.edu/courses/audio-video-courses/#electrical-engineering-and-computer-science
 2. USNW - Elearning https://www.youtube.com/user/UNSWelearning
+3. Harward online courses (some of them free!) https://pll.harvard.edu/subject/computer-science
+4. Computer Science Podcasts https://www.youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL
 
 
 ### The Softer Side
