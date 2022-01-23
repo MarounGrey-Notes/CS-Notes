@@ -49,6 +49,9 @@ The 4-Hour Workweek - Timothy Ferris<br>
 How to win friends, influence people - Dale Carnegie<br>
 Self-Confidence workbook - Barbara Markway<br>
 
+# Dating 
+Single is your superpower https://newmindsetwhodis.com/products/single-is-your-superpower
+
 
 # Self-Education
 
