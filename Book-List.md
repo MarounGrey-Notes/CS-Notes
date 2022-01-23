@@ -33,15 +33,20 @@ My Book List
 1. How to win friends, influence people - Dale Carnegie<br>
 2. Self-Confidence workbook - Barbara Markway<br>
 3. Scam School: Your Guide to Scoring Free Drinks, Doing Magic & Becoming the Life of the Party https://www.amazon.com/Scam-School-Guide-Scoring-Drinks/dp/1620878542/ref=sr_1_1?crid=2EEBPB1VNQZ4N&keywords=scam+school&qid=1642900586&s=books&sprefix=scam+school%2Cstripbooks%2C101&sr=1-1
+4. So Good They Can't Ignore You https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124
+5. Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) https://www.amazon.com/Surrounded-Idiots-Behavior-Effectively-Communicate-ebook/dp/B07J4YT2HB/ref=msx_wsixn_ku_v2_23/130-2763341-2178747?pd_rd_w=uNSTw&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=A1VRC2C41S1C8P89P7Y5&pd_rd_r=fca6aa1c-b7c9-4271-953e-8282e9670299&pd_rd_wg=PFrd3&pd_rd_i=B07J4YT2HB&psc=1
+6. An Introvert's Guide to Networking: Practical Tools to Leverage Your Strengths and Expand Your Network https://www.amazon.com/Introverts-Guide-Networking-Practical-Strengths-ebook/dp/B08LMGQS6F/ref=sr_1_17?crid=2KAT8WNSUJ4P3&keywords=networking+for+introverts&qid=1642920564&s=digital-text&sprefix=networking+for+int%2Cdigital-text%2C125&sr=1-17
 
 ### Dating 
 1. Single is your superpower https://newmindsetwhodis.com/products/single-is-your-superpower
 2. Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139/ref=sr_1_2?crid=EOBV30LDMURE&keywords=attached+book&qid=1642900762&s=books&sprefix=attached+book%2Cstripbooks%2C116&sr=1-2
 3. Why Men Love Bitches: From Doormat to Dreamgirl―A Woman's Guide to Holding Her Own in a Relationship https://www.amazon.com/Why-Men-Love-Bitches-Relationship/dp/1580627560/ref=sr_1_1?crid=2QTDRAR6MF0ZX&keywords=why+men+love+bitches&qid=1642900807&s=books&sprefix=why+men+love+bitchs%2Cstripbooks%2C129&sr=1-1
+4. The Introvert's Guide to Dating: How to Leverage Your Unique Strengths to Connect and Find Love https://www.amazon.com/dp/1648765599/ref=sspa_dk_detail_5?psc=1p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE0R0pYMUpKUlQ0WjImZW5jcnlwdGVkSWQ9QTAxNTM3NjEzOVgzTUdXRjdSVDJPJmVuY3J5cHRlZEFkSWQ9QTA4NzUwMDAxSlNBTzM3UUM0WUVEJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+5. Keep Calm And Cut Him Off: 13 Reasons to "Go Silent" on Guys Who Reject or Break Up with You https://www.amazon.com/dp/B09NH479BK/ref=sspa_dk_detail_1?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTFdXMlhYR1QyNE0mZW5jcnlwdGVkSWQ9QTA4NjAxMDcyNFVZNkdGT0VQSVpGJmVuY3J5cHRlZEFkSWQ9QTAxMDQ1NjkzU1owWkQ1QlIwQzRWJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+6. Texts So Good He Can't Ignore: Sassy Texting Secrets for Attracting High-Quality Men (and Keeping the One You Want) https://www.amazon.com/Texts-Good-Cant-Ignore-High-Quality/dp/1718642881/ref=pd_bxgy_img_2/130-2763341-2178747?pd_rd_w=4YZ94&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=3WT0RJWVXBA9NDQVXPSZ&pd_rd_r=ea02e24f-be54-4462-8623-7ce78567bedb&pd_rd_wg=Zb3F0&pd_rd_i=1718642881&psc=1
 
 ### Selling
 1. The Art of Text Message Selling: The 23 Secrets to Dominating Social Selling https://www.amazon.com/Art-Text-Message-Selling-Dominating-ebook/dp/B07KLRX3N7/ref=sr_1_2?keywords=art+of+text+message+selling&qid=1642899531&sprefix=art+of+text+%2Caps%2C121&sr=8-2
-
 
 # Self-Education
 
@@ -83,4 +88,7 @@ My Book List
 
 # Random Stuff
 
-4. ✔️Clock Worm - https://www.amazon.com/Clock-Worm-Char-Lie/dp/B08SQ3PYV9/ref=sr_1_1?crid=3FMXWICC3K1B4&keywords=clock+worm&qid=1642898885&sprefix=clock+worm%2Caps%2C151&sr=8-1
+1. ✔️Clock Worm - https://www.amazon.com/Clock-Worm-Char-Lie/dp/B08SQ3PYV9/ref=sr_1_1?crid=3FMXWICC3K1B4&keywords=clock+worm&qid=1642898885&sprefix=clock+worm%2Caps%2C151&sr=8-1
+2. Digital Minimalism https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=pd_bxgy_img_2/130-2763341-2178747?pd_rd_w=drf7a&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=0E072MKXWB75MAJAWYSD&pd_rd_r=bb1601b4-49b2-413d-9e7e-2e10c81489b4&pd_rd_wg=otDO2&pd_rd_i=0525536515&psc=1
+3. Quiet: The Power of Introverts in a World That Can't Stop Talking https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_2?crid=2PE5SJAOFPKUW&keywords=the+introvert&qid=1642919389&s=books&sprefix=the+introvert%2Cstripbooks%2C116&sr=1-2
+4. The Introvert Advantage: How Quiet People Can Thrive in an Extrovert World https://www.amazon.com/gp/product/B006VUIDIY/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
