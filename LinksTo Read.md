@@ -9,6 +9,8 @@ Just random stuff I want to read sometime later
 2. 
 3. Def Con: https://defcon.org/
 4. Really cool programming blog, lots of interesting projects: https://www.twilio.com/blog
+### Social
+1. Good email course about dating & relationship(free) http://www.brucebryans.com/ecourse/
 
 # Articles
 ### Financial 
