@@ -26,7 +26,16 @@ My Book List
 5. The 4-Hour Workweek - Timothy Ferris<br>
 6. Your Score: An Insider's Secrets to Understanding, Controlling, and Protecting Your Credit Score https://www.amazon.com/Your-Score-Understanding-Controlling-Protecting/dp/1328507998/ref=sr_1_4?crid=2IBAFGJJPI5D5&keywords=credit+score+book&qid=1642899652&sprefix=credit+score+book%2Caps%2C122&sr=8-4
 
-# Social
+# Personal Development
+
+### Self-Confidence / Productivity
+
+1. The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life https://www.amazon.com/dp/B01I29Y344/?coliid=IPK4BAD274Z7N&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
+2. Digital Minimalism https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=pd_bxgy_img_2/130-2763341-2178747?pd_rd_w=drf7a&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=0E072MKXWB75MAJAWYSD&pd_rd_r=bb1601b4-49b2-413d-9e7e-2e10c81489b4&pd_rd_wg=otDO2&pd_rd_i=0525536515&psc=1
+3. Quiet: The Power of Introverts in a World That Can't Stop Talking https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_2?crid=2PE5SJAOFPKUW&keywords=the+introvert&qid=1642919389&s=books&sprefix=the+introvert%2Cstripbooks%2C116&sr=1-2
+4. The Introvert Advantage: How Quiet People Can Thrive in an Extrovert World https://www.amazon.com/gp/product/B006VUIDIY/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
+5. Dopamine Detox : A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things (Productivity Series Book 1)
+6. The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted (Without Feeling Guilty!) https://www.amazon.com/Art-Saying-NO-Reclaim-Granted-ebook/dp/B074LZG7KS/ref=msx_wsixn_ku_v2_3/130-2763341-2178747?pd_rd_w=3VInn&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=P740PE2JFRQGTZWPX0MJ&pd_rd_r=6c713ccb-113d-4761-b214-bd19af375521&pd_rd_wg=ajXzb&pd_rd_i=B074LZG7KS&psc=1
 
 ### Social Skills
 
@@ -36,6 +45,8 @@ My Book List
 4. So Good They Can't Ignore You https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124
 5. Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) https://www.amazon.com/Surrounded-Idiots-Behavior-Effectively-Communicate-ebook/dp/B07J4YT2HB/ref=msx_wsixn_ku_v2_23/130-2763341-2178747?pd_rd_w=uNSTw&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=A1VRC2C41S1C8P89P7Y5&pd_rd_r=fca6aa1c-b7c9-4271-953e-8282e9670299&pd_rd_wg=PFrd3&pd_rd_i=B07J4YT2HB&psc=1
 6. An Introvert's Guide to Networking: Practical Tools to Leverage Your Strengths and Expand Your Network https://www.amazon.com/Introverts-Guide-Networking-Practical-Strengths-ebook/dp/B08LMGQS6F/ref=sr_1_17?crid=2KAT8WNSUJ4P3&keywords=networking+for+introverts&qid=1642920564&s=digital-text&sprefix=networking+for+int%2Cdigital-text%2C125&sr=1-17
+7. Talking to Strangers: What We Should Know about the People We Don't Know https://www.amazon.com/dp/B07NDKVWZW/?coliid=I3QOC2POKG086J&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
+8. Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) https://www.amazon.com/dp/B07J4YT2HB/?coliid=I2O2824GPUHQI7&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
 
 ### Dating 
 1. Single is your superpower https://newmindsetwhodis.com/products/single-is-your-superpower
@@ -73,6 +84,8 @@ My Book List
 ### Private investigation
 1. ✔️51 Dirty Tricks Bad Guys Really Hate: Sneaky Tactics used by Police, Private Investigators and Bounty Hunters https://www.amazon.com/Dirty-Tricks-Guys-Really-Hate-ebook/dp/B00QEFXY8K/ref=sr_1_1?keywords=51+dirty+tricks+bad+guys+really+hate&qid=1642899226&s=digital-text&sprefix=51+dirty%2Cdigital-text%2C105&sr=1-1
 2. 🟣The Complete Idiot's Guide to Private Investigating, Third Edition: Discover How the Pros Uncover the Facts and Get to the Truth https://www.amazon.com/Complete-Idiots-Guide-Private-Investigating-ebook/dp/B00BMWKSIO/ref=sr_1_1?crid=30LEGW8B9CYFF&keywords=complete+idiot%27s+guide+to+private&qid=1642899336&s=digital-text&sprefix=complete+idiot%27s+guide+to+privat%2Cdigital-text%2C110&sr=1-1
+3. Get the Truth: Former CIA Officers Teach You How to Persuade Anyone to Tell All https://www.amazon.com/dp/1250043336/?coliid=IJU22V6LSSXAW&colid=1OHACYBUJ8R8O&psc=1&ref_=gv_ov_lig_pi_dp
+4. Spy the Lie: Former CIA Officers Teach You How to Detect Deception https://www.amazon.com/dp/1250029627/?coliid=ILRZJRGU8B1K3&colid=1OHACYBUJ8R8O&psc=1&ref_=gv_ov_lig_pi_dp
 
 # Travelling
 
@@ -85,10 +98,10 @@ My Book List
 # Fantasy
 1. ✔️ A Game of Thrones (A Song of Ice and Fire, Book 1) https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553381687/ref=sr_1_3?crid=3GAMBJL4EOK1W&keywords=game+of+thrones+book&qid=1642900387&s=books&sprefix=game+of+thrones+book%2Cstripbooks%2C104&sr=1-3
 2. 🟣A Clash of Kings: A Song of Ice and Fire: Book Two https://www.amazon.com/Clash-Kings-HBO-Tie-Song/dp/0345535413/ref=pd_bxgy_img_1/130-2763341-2178747?pd_rd_w=5lIRP&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=YNE32CBHMM3CK8S59DX7&pd_rd_r=3205ece1-4f3d-415a-83b6-09bc7e0240b3&pd_rd_wg=E4EO2&pd_rd_i=0345535413&psc=1
+3. The Last Wish: Introducing the Witcher (The Witcher Saga Book 1) https://www.amazon.com/Last-Wish-Introducing-Witcher-ebook/dp/B0010SIPT4/ref=sr_1_2?crid=1QF6CMLSZPLMS&keywords=the+witcher+book+1&qid=1643275413&s=digital-text&sprefix=the+witcher+book+1%2Cdigital-text%2C110&sr=1-2
 
 # Random Stuff
 
 1. ✔️Clock Worm - https://www.amazon.com/Clock-Worm-Char-Lie/dp/B08SQ3PYV9/ref=sr_1_1?crid=3FMXWICC3K1B4&keywords=clock+worm&qid=1642898885&sprefix=clock+worm%2Caps%2C151&sr=8-1
-2. Digital Minimalism https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=pd_bxgy_img_2/130-2763341-2178747?pd_rd_w=drf7a&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=0E072MKXWB75MAJAWYSD&pd_rd_r=bb1601b4-49b2-413d-9e7e-2e10c81489b4&pd_rd_wg=otDO2&pd_rd_i=0525536515&psc=1
-3. Quiet: The Power of Introverts in a World That Can't Stop Talking https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_2?crid=2PE5SJAOFPKUW&keywords=the+introvert&qid=1642919389&s=books&sprefix=the+introvert%2Cstripbooks%2C116&sr=1-2
-4. The Introvert Advantage: How Quiet People Can Thrive in an Extrovert World https://www.amazon.com/gp/product/B006VUIDIY/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
+2. Taking the Red Pill: Science, Philosophy and the Religion in the Matrix (Smart Pop series) https://www.amazon.com/dp/1932100024/?coliid=I71VVX314TFJD&colid=1OHACYBUJ8R8O&psc=1&ref_=gv_ov_lig_pi_dp
+
