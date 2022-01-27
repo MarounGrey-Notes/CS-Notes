@@ -34,8 +34,10 @@ My Book List
 2. Digital Minimalism https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=pd_bxgy_img_2/130-2763341-2178747?pd_rd_w=drf7a&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=0E072MKXWB75MAJAWYSD&pd_rd_r=bb1601b4-49b2-413d-9e7e-2e10c81489b4&pd_rd_wg=otDO2&pd_rd_i=0525536515&psc=1
 3. Quiet: The Power of Introverts in a World That Can't Stop Talking https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_2?crid=2PE5SJAOFPKUW&keywords=the+introvert&qid=1642919389&s=books&sprefix=the+introvert%2Cstripbooks%2C116&sr=1-2
 4. The Introvert Advantage: How Quiet People Can Thrive in an Extrovert World https://www.amazon.com/gp/product/B006VUIDIY/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
-5. Dopamine Detox : A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things (Productivity Series Book 1)
+5. 🟣Dopamine Detox : A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things (Productivity Series Book 1)
 6. The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted (Without Feeling Guilty!) https://www.amazon.com/Art-Saying-NO-Reclaim-Granted-ebook/dp/B074LZG7KS/ref=msx_wsixn_ku_v2_3/130-2763341-2178747?pd_rd_w=3VInn&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=P740PE2JFRQGTZWPX0MJ&pd_rd_r=6c713ccb-113d-4761-b214-bd19af375521&pd_rd_wg=ajXzb&pd_rd_i=B074LZG7KS&psc=1
+7. Thinking, Fast and Slow https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=msx_wsixn_ku_v2_14/130-2763341-2178747?pd_rd_w=lmLvI&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=P1BKB1RKK94920J07HDR&pd_rd_r=caa4abe4-169b-4ad0-bf4e-e2678ef51323&pd_rd_wg=LXFl7&pd_rd_i=B00555X8OA&psc=1
+8. Speak With No Fear: Go from a nervous, nauseated, and sweaty speaker to an excited, energized, and passionate presenter https://www.amazon.com/Speak-Fear-nauseated-energized-passionate-ebook/dp/B07SB61VRY/ref=sr_1_5?crid=273VONIRB5HD3&keywords=public+speaking&qid=1643276946&s=digital-text&sprefix=public+spea%2Cdigital-text%2C109&sr=1-5
 
 ### Social Skills
 
@@ -43,10 +45,8 @@ My Book List
 2. Self-Confidence workbook - Barbara Markway<br>
 3. Scam School: Your Guide to Scoring Free Drinks, Doing Magic & Becoming the Life of the Party https://www.amazon.com/Scam-School-Guide-Scoring-Drinks/dp/1620878542/ref=sr_1_1?crid=2EEBPB1VNQZ4N&keywords=scam+school&qid=1642900586&s=books&sprefix=scam+school%2Cstripbooks%2C101&sr=1-1
 4. So Good They Can't Ignore You https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124
-5. Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) https://www.amazon.com/Surrounded-Idiots-Behavior-Effectively-Communicate-ebook/dp/B07J4YT2HB/ref=msx_wsixn_ku_v2_23/130-2763341-2178747?pd_rd_w=uNSTw&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=A1VRC2C41S1C8P89P7Y5&pd_rd_r=fca6aa1c-b7c9-4271-953e-8282e9670299&pd_rd_wg=PFrd3&pd_rd_i=B07J4YT2HB&psc=1
-6. An Introvert's Guide to Networking: Practical Tools to Leverage Your Strengths and Expand Your Network https://www.amazon.com/Introverts-Guide-Networking-Practical-Strengths-ebook/dp/B08LMGQS6F/ref=sr_1_17?crid=2KAT8WNSUJ4P3&keywords=networking+for+introverts&qid=1642920564&s=digital-text&sprefix=networking+for+int%2Cdigital-text%2C125&sr=1-17
-7. Talking to Strangers: What We Should Know about the People We Don't Know https://www.amazon.com/dp/B07NDKVWZW/?coliid=I3QOC2POKG086J&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
-8. Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) https://www.amazon.com/dp/B07J4YT2HB/?coliid=I2O2824GPUHQI7&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
+5. An Introvert's Guide to Networking: Practical Tools to Leverage Your Strengths and Expand Your Network https://www.amazon.com/Introverts-Guide-Networking-Practical-Strengths-ebook/dp/B08LMGQS6F/ref=sr_1_17?crid=2KAT8WNSUJ4P3&keywords=networking+for+introverts&qid=1642920564&s=digital-text&sprefix=networking+for+int%2Cdigital-text%2C125&sr=1-17
+6. Talking to Strangers: What We Should Know about the People We Don't Know https://www.amazon.com/dp/B07NDKVWZW/?coliid=I3QOC2POKG086J&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
 
 ### Dating 
 1. Single is your superpower https://newmindsetwhodis.com/products/single-is-your-superpower
@@ -56,8 +56,10 @@ My Book List
 5. ✔️Keep Calm And Cut Him Off: 13 Reasons to "Go Silent" on Guys Who Reject or Break Up with You https://www.amazon.com/dp/B09NH479BK/ref=sspa_dk_detail_1?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTFdXMlhYR1QyNE0mZW5jcnlwdGVkSWQ9QTA4NjAxMDcyNFVZNkdGT0VQSVpGJmVuY3J5cHRlZEFkSWQ9QTAxMDQ1NjkzU1owWkQ1QlIwQzRWJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 6. Texts So Good He Can't Ignore: Sassy Texting Secrets for Attracting High-Quality Men (and Keeping the One You Want) https://www.amazon.com/Texts-Good-Cant-Ignore-High-Quality/dp/1718642881/ref=pd_bxgy_img_2/130-2763341-2178747?pd_rd_w=4YZ94&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=3WT0RJWVXBA9NDQVXPSZ&pd_rd_r=ea02e24f-be54-4462-8623-7ce78567bedb&pd_rd_wg=Zb3F0&pd_rd_i=1718642881&psc=1
 
-### Selling
+### Career
 1. The Art of Text Message Selling: The 23 Secrets to Dominating Social Selling https://www.amazon.com/Art-Text-Message-Selling-Dominating-ebook/dp/B07KLRX3N7/ref=sr_1_2?keywords=art+of+text+message+selling&qid=1642899531&sprefix=art+of+text+%2Caps%2C121&sr=8-2
+2. Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity-ebook/dp/B07P9LPXPT/ref=msx_wsixn_ku_v2_5/130-2763341-2178747?pd_rd_w=jK3mu&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=CY0QZQWZKA6NZ366C3B1&pd_rd_r=7699fb54-8013-454e-90de-b100a369d719&pd_rd_wg=xVcTm&pd_rd_i=B07P9LPXPT&psc=1
+3. Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) https://www.amazon.com/dp/B07J4YT2HB/?coliid=I2O2824GPUHQI7&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
 
 # Self-Education
 
