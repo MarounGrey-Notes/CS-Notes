@@ -25,6 +25,7 @@ My Book List
 4. Think and Grow Rich - Napoleon Hill<br>
 5. The 4-Hour Workweek - Timothy Ferris<br>
 6. Your Score: An Insider's Secrets to Understanding, Controlling, and Protecting Your Credit Score https://www.amazon.com/Your-Score-Understanding-Controlling-Protecting/dp/1328507998/ref=sr_1_4?crid=2IBAFGJJPI5D5&keywords=credit+score+book&qid=1642899652&sprefix=credit+score+book%2Caps%2C122&sr=8-4
+7. The Millionaire Fastline https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime-ebook/dp/B004BDOUAI/ref=sr_1_2?crid=14VKXLDKPZ8KG&keywords=millionaire+fastlane&qid=1643705132&sprefix=millionaire+fastlane+%2Caps%2C102&sr=8-2
 
 # Personal Development
 
