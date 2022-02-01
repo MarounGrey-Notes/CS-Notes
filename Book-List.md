@@ -13,6 +13,7 @@ My Book List
 4. The 60-Minute Tech Startup: How to Start a Tech Company As a Side Hustle in One Hour a Day and Get Customers in Thirty Days https://www.amazon.com/60-Minute-Tech-Startup-Customers-Entrepreneurship-ebook/dp/B088MLHBRJ/ref=sr_1_3?crid=1Z63YOC2H0ZGG&keywords=60+minute+tech+startup&qid=1642899815&sprefix=60+minute+tech+startup%2Caps%2C119&sr=8-3
 5. Passive Income Ideas: 101 Passive Income Ideas Under $1000 https://www.amazon.com/Passive-Income-Ideas-Under-1000/dp/173072681X/ref=sr_1_2?crid=3PNIY9J7YSCDR&keywords=101+passive&qid=1642899854&sprefix=101+passive+%2Caps%2C127&sr=8-2
 6. 🟣Passive Income, Aggressive Retirement: The Secret to Freedom, Flexibility, and Financial Independence https://www.amazon.com/Passive-Income-Aggressive-Retirement-Independence/dp/1706203020/ref=sr_1_3?crid=11I0BUXX20FQR&keywords=aggressive+retirement&qid=1642899911&sprefix=aggressive+retirement%2Caps%2C121&sr=8-3
+7. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8/ref=sr_1_1?crid=10NEY139OHKPX&keywords=the+lean+startup&qid=1643706527&s=audible&sprefix=the+lean+startup%2Caudible%2C131&sr=1-1
 
 ### Real Estate
 1. Flipping Houses For Dummies https://www.amazon.com/Flipping-Houses-Dummies-Ralph-Roberts-ebook/dp/B06XRW8PWN/ref=sr_1_1_sspa?crid=21MOH71HLB0AJ&keywords=house+flipping+for+dummies&qid=1642899970&sprefix=house+flipping+for+dummies%2Caps%2C114&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTlFGMFQxS0VZS1hNJmVuY3J5cHRlZElkPUEwMjMxNjg1MVlYR1JPN1VDUzJRUiZlbmNyeXB0ZWRBZElkPUEwMTg1MzQzMTROTTNIMU5aMEVRMyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
@@ -41,6 +42,7 @@ My Book List
 7. Thinking, Fast and Slow https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=msx_wsixn_ku_v2_14/130-2763341-2178747?pd_rd_w=lmLvI&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=P1BKB1RKK94920J07HDR&pd_rd_r=caa4abe4-169b-4ad0-bf4e-e2678ef51323&pd_rd_wg=LXFl7&pd_rd_i=B00555X8OA&psc=1
 8. Speak With No Fear: Go from a nervous, nauseated, and sweaty speaker to an excited, energized, and passionate presenter https://www.amazon.com/Speak-Fear-nauseated-energized-passionate-ebook/dp/B07SB61VRY/ref=sr_1_5?crid=273VONIRB5HD3&keywords=public+speaking&qid=1643276946&s=digital-text&sprefix=public+spea%2Cdigital-text%2C109&sr=1-5
 9. Willpower Instinct https://www.amazon.com/The-Willpower-Instinct-audiobook/dp/B07QZT49MK/ref=sr_1_1?keywords=willpower+instinct&qid=1643705993&sprefix=willpower%2Caps%2C146&sr=8-1
+10. What to Say When You Talk to Your Self https://www.amazon.com/What-When-Talk-Your-Self/dp/B094NZ36TQ/ref=sr_1_1?crid=VCRT7JY7CQGB&keywords=what+to+say+when+you+talk+to+yourself&qid=1643706724&s=audible&sprefix=what+to+say+when+you+talk+to+youself%2Caudible%2C103&sr=1-1
 
 ### Social Skills
 
