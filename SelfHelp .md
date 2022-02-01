@@ -16,6 +16,7 @@
 * The 20% you need to know to be 80% percent efficient using it.
 * It's easy to fall into the trap of talking about yourself and trying to demonstrate why you're worthy, but you'll find much more success in solving other people's problems and genuinely being helpful.
 * Try not to become a man of success, but rather try to become a man of value.
+* The more emotionally attached we are to someone the easier it is for us to be convinced of their value and virtue in the pesence of recent information that only reinforces good stuff.
 
 
 
