@@ -26,6 +26,7 @@ My Book List
 5. The 4-Hour Workweek - Timothy Ferris<br>
 6. Your Score: An Insider's Secrets to Understanding, Controlling, and Protecting Your Credit Score https://www.amazon.com/Your-Score-Understanding-Controlling-Protecting/dp/1328507998/ref=sr_1_4?crid=2IBAFGJJPI5D5&keywords=credit+score+book&qid=1642899652&sprefix=credit+score+book%2Caps%2C122&sr=8-4
 7. The Millionaire Fastline https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime-ebook/dp/B004BDOUAI/ref=sr_1_2?crid=14VKXLDKPZ8KG&keywords=millionaire+fastlane&qid=1643705132&sprefix=millionaire+fastlane+%2Caps%2C102&sr=8-2
+8. The Millionaire mind https://www.amazon.com/The-Millionaire-Mind-audiobook/dp/B0000547HT/ref=sr_1_1?crid=2XAKDXHO8CR6M&keywords=the+millionaire+mind&qid=1643706062&s=audible&sprefix=the+millionaire+mind%2Caudible%2C113&sr=1-1
 
 # Personal Development
 
@@ -39,6 +40,7 @@ My Book List
 6. The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted (Without Feeling Guilty!) https://www.amazon.com/Art-Saying-NO-Reclaim-Granted-ebook/dp/B074LZG7KS/ref=msx_wsixn_ku_v2_3/130-2763341-2178747?pd_rd_w=3VInn&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=P740PE2JFRQGTZWPX0MJ&pd_rd_r=6c713ccb-113d-4761-b214-bd19af375521&pd_rd_wg=ajXzb&pd_rd_i=B074LZG7KS&psc=1
 7. Thinking, Fast and Slow https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=msx_wsixn_ku_v2_14/130-2763341-2178747?pd_rd_w=lmLvI&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=P1BKB1RKK94920J07HDR&pd_rd_r=caa4abe4-169b-4ad0-bf4e-e2678ef51323&pd_rd_wg=LXFl7&pd_rd_i=B00555X8OA&psc=1
 8. Speak With No Fear: Go from a nervous, nauseated, and sweaty speaker to an excited, energized, and passionate presenter https://www.amazon.com/Speak-Fear-nauseated-energized-passionate-ebook/dp/B07SB61VRY/ref=sr_1_5?crid=273VONIRB5HD3&keywords=public+speaking&qid=1643276946&s=digital-text&sprefix=public+spea%2Cdigital-text%2C109&sr=1-5
+9. Willpower Instinct https://www.amazon.com/The-Willpower-Instinct-audiobook/dp/B07QZT49MK/ref=sr_1_1?keywords=willpower+instinct&qid=1643705993&sprefix=willpower%2Caps%2C146&sr=8-1
 
 ### Social Skills
 
