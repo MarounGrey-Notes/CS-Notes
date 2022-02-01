@@ -53,13 +53,15 @@ My Book List
 5. An Introvert's Guide to Networking: Practical Tools to Leverage Your Strengths and Expand Your Network https://www.amazon.com/Introverts-Guide-Networking-Practical-Strengths-ebook/dp/B08LMGQS6F/ref=sr_1_17?crid=2KAT8WNSUJ4P3&keywords=networking+for+introverts&qid=1642920564&s=digital-text&sprefix=networking+for+int%2Cdigital-text%2C125&sr=1-17
 6. Talking to Strangers: What We Should Know about the People We Don't Know https://www.amazon.com/dp/B07NDKVWZW/?coliid=I3QOC2POKG086J&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
 
-### Dating 
+### Dating (from women's perspective but whatever)
 1. Single is your superpower https://newmindsetwhodis.com/products/single-is-your-superpower
 2. Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139/ref=sr_1_2?crid=EOBV30LDMURE&keywords=attached+book&qid=1642900762&s=books&sprefix=attached+book%2Cstripbooks%2C116&sr=1-2
 3. Why Men Love Bitches: From Doormat to Dreamgirl―A Woman's Guide to Holding Her Own in a Relationship https://www.amazon.com/Why-Men-Love-Bitches-Relationship/dp/1580627560/ref=sr_1_1?crid=2QTDRAR6MF0ZX&keywords=why+men+love+bitches&qid=1642900807&s=books&sprefix=why+men+love+bitchs%2Cstripbooks%2C129&sr=1-1
 4. The Introvert's Guide to Dating: How to Leverage Your Unique Strengths to Connect and Find Love https://www.amazon.com/dp/1648765599/ref=sspa_dk_detail_5?psc=1p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE0R0pYMUpKUlQ0WjImZW5jcnlwdGVkSWQ9QTAxNTM3NjEzOVgzTUdXRjdSVDJPJmVuY3J5cHRlZEFkSWQ9QTA4NzUwMDAxSlNBTzM3UUM0WUVEJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 5. ✔️Keep Calm And Cut Him Off: 13 Reasons to "Go Silent" on Guys Who Reject or Break Up with You https://www.amazon.com/dp/B09NH479BK/ref=sspa_dk_detail_1?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTFdXMlhYR1QyNE0mZW5jcnlwdGVkSWQ9QTA4NjAxMDcyNFVZNkdGT0VQSVpGJmVuY3J5cHRlZEFkSWQ9QTAxMDQ1NjkzU1owWkQ1QlIwQzRWJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 6. Texts So Good He Can't Ignore: Sassy Texting Secrets for Attracting High-Quality Men (and Keeping the One You Want) https://www.amazon.com/Texts-Good-Cant-Ignore-High-Quality/dp/1718642881/ref=pd_bxgy_img_2/130-2763341-2178747?pd_rd_w=4YZ94&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=3WT0RJWVXBA9NDQVXPSZ&pd_rd_r=ea02e24f-be54-4462-8623-7ce78567bedb&pd_rd_wg=Zb3F0&pd_rd_i=1718642881&psc=1
+7. How to be single and happy https://www.amazon.com/How-to-Be-Single-and-Happy-audiobook/dp/B07932BBR1/ref=sr_1_1?crid=1FUZE8WERLNGV&keywords=How+to+be+single+and+happy&qid=1643707120&s=audible&sprefix=how+to+be+single+and+happy%2Caudible%2C233&sr=1-1
+8. It's not you: 27 (wrong) reasons you're single https://www.amazon.com/Its-Not-You-Sara-Eckel-audiobook/dp/B07BTLNLND/ref=sr_1_1?crid=2M8P0AGW6OOF4&keywords=It%27s+not+you%3A+27+%28wrong%29+reasons+you%27re+single&qid=1643707183&s=audible&sprefix=it%27s+not+you+27+wrong+reasons+you%27re+single%2Caudible%2C95&sr=1-1
 
 ### Career
 1. The Art of Text Message Selling: The 23 Secrets to Dominating Social Selling https://www.amazon.com/Art-Text-Message-Selling-Dominating-ebook/dp/B07KLRX3N7/ref=sr_1_2?keywords=art+of+text+message+selling&qid=1642899531&sprefix=art+of+text+%2Caps%2C121&sr=8-2
