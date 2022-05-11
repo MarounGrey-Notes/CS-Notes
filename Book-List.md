@@ -107,7 +107,7 @@ My Book List
 # Fantasy
 1. ✔️ A Game of Thrones (A Song of Ice and Fire, Book 1) https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553381687/ref=sr_1_3?crid=3GAMBJL4EOK1W&keywords=game+of+thrones+book&qid=1642900387&s=books&sprefix=game+of+thrones+book%2Cstripbooks%2C104&sr=1-3
 2. 🟣A Clash of Kings: A Song of Ice and Fire: Book Two https://www.amazon.com/Clash-Kings-HBO-Tie-Song/dp/0345535413/ref=pd_bxgy_img_1/130-2763341-2178747?pd_rd_w=5lIRP&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=YNE32CBHMM3CK8S59DX7&pd_rd_r=3205ece1-4f3d-415a-83b6-09bc7e0240b3&pd_rd_wg=E4EO2&pd_rd_i=0345535413&psc=1
-3. The Last Wish: Introducing the Witcher (The Witcher Saga Book 1) https://www.amazon.com/Last-Wish-Introducing-Witcher-ebook/dp/B0010SIPT4/ref=sr_1_2?crid=1QF6CMLSZPLMS&keywords=the+witcher+book+1&qid=1643275413&s=digital-text&sprefix=the+witcher+book+1%2Cdigital-text%2C110&sr=1-2
+3. 🟣The Last Wish: Introducing the Witcher (The Witcher Saga Book 1) https://www.amazon.com/Last-Wish-Introducing-Witcher-ebook/dp/B0010SIPT4/ref=sr_1_2?crid=1QF6CMLSZPLMS&keywords=the+witcher+book+1&qid=1643275413&s=digital-text&sprefix=the+witcher+book+1%2Cdigital-text%2C110&sr=1-2
 
 # Random Stuff
 
