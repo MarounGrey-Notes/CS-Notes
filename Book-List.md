@@ -67,6 +67,12 @@ My Book List
 1. The Art of Text Message Selling: The 23 Secrets to Dominating Social Selling https://www.amazon.com/Art-Text-Message-Selling-Dominating-ebook/dp/B07KLRX3N7/ref=sr_1_2?keywords=art+of+text+message+selling&qid=1642899531&sprefix=art+of+text+%2Caps%2C121&sr=8-2
 2. Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity-ebook/dp/B07P9LPXPT/ref=msx_wsixn_ku_v2_5/130-2763341-2178747?pd_rd_w=jK3mu&pf_rd_p=9f29c685-4449-4dd6-99d8-74df1ac2612c&pf_rd_r=CY0QZQWZKA6NZ366C3B1&pd_rd_r=7699fb54-8013-454e-90de-b100a369d719&pd_rd_wg=xVcTm&pd_rd_i=B07P9LPXPT&psc=1
 3. Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life) https://www.amazon.com/dp/B07J4YT2HB/?coliid=I2O2824GPUHQI7&colid=1OHACYBUJ8R8O&psc=0&ref_=gv_ov_lig_pi_dp
+4. 🟣Job Stacking: https://www.amazon.com/Job-Stacking-Leverage-advent-security/dp/173799092X
+
+# Health and Fitness
+1. Embrace You: https://www.amazon.com/Embrace-You-Transforming-Misconceptions-Lifelong-ebook/dp/B098S8Z13R/ref=sr_1_1?crid=LAJF77WSZBIH&keywords=embrace+you&qid=1654060741&s=books&sprefix=embrace+you%2Cstripbooks%2C110&sr=1-1
+2. Fit Men Cook https://www.amazon.com/Fit-Men-Cook-Women_Always-HealthyAF/dp/1501178725/ref=sr_1_1?crid=QC7BHGVILS2L&keywords=fit+men+cook&qid=1654060772&s=books&sprefix=fit+men+cook%2Cstripbooks%2C110&sr=1-1
+3. The Fatburn Fix https://www.amazon.com/Fatburn-Fix-Great-Weight-Using-ebook/dp/B07GDDXV76/ref=sr_1_1?crid=1G3VG6OJT2ECH&keywords=the+fatburn+fix&qid=1654060794&s=books&sprefix=the+fatburn+fix%2Cstripbooks%2C103&sr=1-1
 
 # Self-Education
 
@@ -106,8 +112,10 @@ My Book List
 
 # Fantasy
 1. ✔️ A Game of Thrones (A Song of Ice and Fire, Book 1) https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553381687/ref=sr_1_3?crid=3GAMBJL4EOK1W&keywords=game+of+thrones+book&qid=1642900387&s=books&sprefix=game+of+thrones+book%2Cstripbooks%2C104&sr=1-3
-2. 🟣A Clash of Kings: A Song of Ice and Fire: Book Two https://www.amazon.com/Clash-Kings-HBO-Tie-Song/dp/0345535413/ref=pd_bxgy_img_1/130-2763341-2178747?pd_rd_w=5lIRP&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=YNE32CBHMM3CK8S59DX7&pd_rd_r=3205ece1-4f3d-415a-83b6-09bc7e0240b3&pd_rd_wg=E4EO2&pd_rd_i=0345535413&psc=1
-3. 🟣The Last Wish: Introducing the Witcher (The Witcher Saga Book 1) https://www.amazon.com/Last-Wish-Introducing-Witcher-ebook/dp/B0010SIPT4/ref=sr_1_2?crid=1QF6CMLSZPLMS&keywords=the+witcher+book+1&qid=1643275413&s=digital-text&sprefix=the+witcher+book+1%2Cdigital-text%2C110&sr=1-2
+2. ✔️A Clash of Kings: A Song of Ice and Fire: Book Two https://www.amazon.com/Clash-Kings-HBO-Tie-Song/dp/0345535413/ref=pd_bxgy_img_1/130-2763341-2178747?pd_rd_w=5lIRP&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=YNE32CBHMM3CK8S59DX7&pd_rd_r=3205ece1-4f3d-415a-83b6-09bc7e0240b3&pd_rd_wg=E4EO2&pd_rd_i=0345535413&psc=1
+3. ✔️The Last Wish: Introducing the Witcher (The Witcher Saga Book 1) https://www.amazon.com/Last-Wish-Introducing-Witcher-ebook/dp/B0010SIPT4/ref=sr_1_2?crid=1QF6CMLSZPLMS&keywords=the+witcher+book+1&qid=1643275413&s=digital-text&sprefix=the+witcher+book+1%2Cdigital-text%2C110&sr=1-2
+4. Sword of Destiny (The Witcher Book 2) https://www.amazon.com/Sword-Destiny-Witcher-Book-4-ebook/dp/B00W22J07S/ref=sr_1_1?crid=3JQ5LGYULPJT6&keywords=sword+of+destiny&qid=1654060880&s=books&sprefix=sword+of+destiny%2Cstripbooks%2C108&sr=1-1
+5. A Storm of Swords (A Song of Ice and Fire, Book 3) https://www.amazon.com/Storm-Swords-Song-Fire-Book-ebook/dp/B000FBFN1U/ref=sr_1_2?crid=3W17F5M2X0RI3&keywords=game+of+thrones+book+3&qid=1654060934&s=books&sprefix=game+of+thrones+book+3%2Cstripbooks%2C112&sr=1-2
 
 # Random Stuff
 
