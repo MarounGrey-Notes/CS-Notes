@@ -1,7 +1,7 @@
 # Notes Repository
 This repository contains my personal notes on various topics related to programming, computer science, and mathematics. I use this repository to keep track of useful resources, such as books, courses, and websites, as well as to take notes on various concepts to better understand them.
 
-## # Contents
+### Contents
 The repository is organized into directories based on the different topics that I'm interested in. Each directory contains subdirectories for specific subtopics, as well as notes and resources related to those subtopics. The main topics that I'm currently focusing on are:
 
 * Programming languages (e.g., Python, JavaScript, Java)
