@@ -12,3 +12,28 @@ When you compile an application, C# compiler compiles your code to IL (Intermedi
 Applications consists of classes. **Class** is a container for some data (attributes) and functions (methods). Data represents the state of the application and functions are representing behaviour. For example: Car have attributes: model, color, etc; Car also have some functions: we can start it, we can move it, etc. <br><br>
 **Namespace** - is a container for related classes. In .NET applications we have different namespaces for working with Databases, Graphics, Security, etc. <br><br>
 **Assembly** - is a container for related namespaces. Physically it's a file on the disk, which can either be an EXE (executable) or DLL (dynamically linked library).
+
+# Variables / Constants
+**Variable** - a name given to a storage location in memory. <br>
+**Constant** - an immutable value.
+
+### Declaring Variables / Constants 
+`int number;` - We declare variable by starting with the type (int) followed by identifyer (number). <br>
+`int Number = 1;` -  When declaring the variable we can assign the value. Also, C# is a case sensitive language, so `Number != number`. <br>
+
+### Identifiers
+* Cannot start with the number
+* Connot include whitespace
+* Cannot be a reserved keyword
+
+|                  | C# Type    | .NET Type   | Bytes | Range    |
+| :---:            | :--------: | :---------: | :---: | :----:   |
+| Integral Numbers | byte       | Byte        | 1     | 0 to 255 |
+|                  | short      | Int16       | 2     | -32,768 to 32,768 |
+|                  | int        | Int32       | 4     | -2.1B to 2.1B |
+|                  | long       | Int64       | 8     | ... |
+| Real Numbers     | float      | Single      | 4     | -3.4 x 10^38 to 3.4 x 10^38 |
+|                  | double     | Double      | 8     | ... |
+|                  | decimal    | Decimal     | 16    | -7.9 x 10^38 to 7.9 x 10^38 |
+| Character        | char       | Char        | 2     | Unicode Characters |
+| Boolean          | bool       | Boolean     | 1     | True / False |
