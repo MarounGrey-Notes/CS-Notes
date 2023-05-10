@@ -26,6 +26,8 @@ Applications consists of classes. **Class** is a container for some data (attrib
 * Connot include whitespace
 * Cannot be a reserved keyword
 
+### Primitive Types
+
 |                  | C# Type    | .NET Type   | Bytes | Range    |
 | :---:            | :--------: | :---------: | :---: | :----:   |
 | Integral Numbers | byte       | Byte        | 1     | 0 to 255 |
@@ -37,3 +39,37 @@ Applications consists of classes. **Class** is a container for some data (attrib
 |                  | decimal    | Decimal     | 16    | -7.9 x 10^38 to 7.9 x 10^38 |
 | Character        | char       | Char        | 2     | Unicode Characters |
 | Boolean          | bool       | Boolean     | 1     | True / False |
+
+# Overflowing
+**Overflowing** - exeeding the boundary of the data type.
+
+Example:
+```
+byte number = 255;
+
+number = number + 1; //0
+```
+To prevent overflowing at runtime we can add `checked { }`:
+```
+checked { 
+  byte number = 255;
+
+  number = number + 1; //0
+}
+```
+In this case an exception will be thrown and the program will crash, unless you handle the exception.
+
+# Scope
+**Scope** - is where a variable / constant has meaning.
+```
+{
+  byte a = 1;
+    {
+      byte b = 2;
+        {
+          byte c = 3;
+         }
+     }
+ }
+ ```
+ a is accessible everywhere in the scope, however c is only accessible within its own block. If I try to access a variable outside the scope I will get the compile error.
