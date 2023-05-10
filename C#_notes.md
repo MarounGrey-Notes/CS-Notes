@@ -145,3 +145,73 @@ MyClass myObj = new MyClass(123);
 int num = (int)myObj;
 ```
 In general, it's important to be careful when converting between non-compatible types, as there may be loss of data or precision. You should always handle any potential errors that may occur during type conversion.
+
+# Operators
+### Arithmetic Operators
+|                  | Operator   | Example   |
+| :------: | :---: | :-------: | 
+| Add      | + | a + b |
+| Subtract | - | a - b |
+| Multiply | * | a * b |
+| Divide   | / | a / b |
+| Remainder | % | a % b |
+
+|  | Operator | Example | Same As |
+| :---: | :---: | :---: | :---: |
+| Increment | ++ | a++ | a = a + 1 |
+| Decrement | -- | a-- | a = a-1 |
+
+##### Postfix Increment
+```
+int a = 1;
+int b = a++;
+
+// a = 2, b = 1
+```
+##### Prefix Increment
+```
+int a = 1;
+int b = ++a;
+
+// a = 2, b = 2
+```
+
+### Comparison Operators
+
+|  | Operator   | Example   |
+| :------: | :---: | :-------: | 
+| Equal    | == | a == b |
+| Not Equal | != | a != b |
+| Greater than | > | a > b |
+| Greater than or equal to | >= | a >= b |
+| Less than | < | a < b |
+| Less than or equal to | <= | a <= b |
+
+
+### Assignment Operators
+
+|  | Operator | Example | Same As |
+| :---: | :---: | :---: | :---: |
+| Assignment | = | a = 1 |  |
+| Addition Assignment | += | a += 3 | a = a + 3 |
+| Subtraction Assignment | -= | a -= 3 | |
+| Multiplication Assignment | \*= | a \*= 3 | |
+| Division Assignment | /= | a /= 3 | |
+
+
+### Logical Operators
+
+|  | Operator   | Example   |
+| :------: | :---: | :-------: | 
+| And | && | a && b |
+| Or | \|\| | a \|\| b |
+| Not | ! | !a |
+
+### Bitwise Operators
+
+|  | Operator   | Example   |
+| :------: | :---: | :-------: | 
+| And | & | a & b |
+| Or | \| | a | b |
+
+
