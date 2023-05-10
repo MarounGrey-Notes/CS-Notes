@@ -73,3 +73,75 @@ In this case an exception will be thrown and the program will crash, unless you 
  }
  ```
  a is accessible everywhere in the scope, however c is only accessible within its own block. If I try to access a variable outside the scope I will get the compile error.
+
+# Type conversion
+### Implicit type conversion
+Implicit type conversion: Implicit type conversion is an automatic conversion of a lower data type to a higher data type. It is done by the C# compiler automatically. This means that you do not need to explicitly specify the conversion.
+
+For example, if you assign an integer value to a double variable, the compiler will automatically convert the integer value to a double value. Here's an example:
+
+```
+int num1 = 10;
+double num2 = num1; // implicit conversion from int to double
+
+```
+
+### Explicit type conversion (casting)
+Explicit type conversion: Explicit type conversion is a manual conversion of a higher data type to a lower data type. This is done by the programmer explicitly specifying the conversion using a cast operator.
+
+For example, if you assign a double value to an integer variable, you will need to explicitly convert the double value to an integer value using a cast operator. Here's an example:
+
+```
+double num1 = 10.5;
+int num2 = (int)num1; // explicit conversion from double to int using cast operator
+
+```
+It's important to note that when performing explicit type conversion, there is a risk of losing data or precision. Therefore, you should use explicit type conversion only when necessary and make sure to handle any potential loss of data or precision.
+
+
+### Conversion between non-compatible types
+In C#, there are cases where you may need to convert between non-compatible types. This can be done using various methods provided by the language, such as the Convert class, parsing methods, and user-defined conversion operators.
+
+##### String to Integer: You can convert a string to an integer using the Parse method of the Int32 class, as follows:
+```
+string strNum = "123";
+int num = Int32.Parse(strNum);
+```
+##### Integer to String: You can convert an integer to a string using the ToString method of the Int32 class, as follows:
+```
+int num = 123;
+string strNum = num.ToString();
+```
+##### Enum to String: You can convert an enum to a string using the ToString method, as follows:
+```
+enum Days {Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday};
+Days day = Days.Monday;
+string dayStr = day.ToString();
+```
+##### String to Enum: You can convert a string to an enum using the Enum.Parse method, as follows:
+```
+string dayStr = "Monday";
+Days day = (Days)Enum.Parse(typeof(Days), dayStr);
+```
+##### User-defined conversion operators: You can also define your own conversion operators for user-defined types. For example, if you have a class called MyClass, you can define a conversion operator to convert an instance of MyClass to an integer as follows:
+```
+class MyClass
+{
+    private int num;
+
+    public MyClass(int num)
+    {
+        this.num = num;
+    }
+
+    public static explicit operator int(MyClass myObj)
+    {
+        return myObj.num;
+    }
+}
+
+// Usage:
+MyClass myObj = new MyClass(123);
+int num = (int)myObj;
+```
+In general, it's important to be careful when converting between non-compatible types, as there may be loss of data or precision. You should always handle any potential errors that may occur during type conversion.
