@@ -248,3 +248,60 @@ int result = Calculator.Add(1, 2);
 // static is accessible from class, but not the object
 ```
 Best practice is to have one class per file.
+
+# Struct
+### Declaring Struct
+```
+public struct RgbColor
+{
+  public int Red;
+  public int Green;
+  public int Blue;
+}
+```
+There is not much difference between Classes and Structures, so use Struct when declaring a small lightweight object (like this rgb color).
+
+# Array
+
+** Array ** - A data structure to store a collection of variables of the same type.
+
+### Declaring array
+```
+int[] numbers = new int[3];
+var numbers = new int[3]; { 1, 2, 3 } // if we already know the values we want to put in array;
+```
+
+# Strings
+
+** String ** - a sequence if characters.
+
+## Creating strings
+```
+string firstName = "Maroun"; //using string literal
+string name = firstName + " " + lastName; //using string concatenation
+string name = string.Format("{0} {1}", firstName, lastName); //using string format
+
+var numbers = new int[3] {1, 2, 3};
+string list = string.Join(",", numbers);   //using string join
+```
+
+## String Elements
+```
+string name = "Maroun";
+char firstChar = name[0]; //firstChar = "M"
+```
+
+### Strings are immutable - Once you created them, you can't change them.
+
+| Char | Description |
+| :---: | :---: | 
+| \n | New Line | 
+| \t | Tab |
+| \\\ | Backslash |
+| \\' | Single Quotation Mark |
+| \\" | Double Quotation Mark |
+
+
+
+
+
