@@ -307,5 +307,28 @@ string path = "c:\\projects\\project1\\folder1"; //when you have case like this
 string path = @"c:\projects\project1\folder1"    //do this
 ```
 
+### Enum
+
+**Enum** - A set name/value pairs (constants)
+
+Use enum where you see a number of related constants. For example:
+```
+// instead of this:
+const int RegularMail = 1;
+const int RegisteredAirMail = 2;
+const int Express = 3;
+
+//use this:
+public enum ShippingMethod
+{
+   RegularMail = 1;
+   RegisteredAirMail = 2;
+   Express = 3;
+}
+```
+# Parsing
+** Parcing ** - converting the string to another type.
+
+
 
 
