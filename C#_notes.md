@@ -247,4 +247,4 @@ public class Calculator
 int result = Calculator.Add(1, 2);
 // static is accessible from class, but not the object
 ```
-
+Best practice is to have one class per file.
