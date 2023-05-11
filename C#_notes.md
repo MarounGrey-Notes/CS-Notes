@@ -301,7 +301,11 @@ char firstChar = name[0]; //firstChar = "M"
 | \\' | Single Quotation Mark |
 | \\" | Double Quotation Mark |
 
-
+### Verbatim Strings
+```
+string path = "c:\\projects\\project1\\folder1"; //when you have case like this
+string path = @"c:\projects\project1\folder1"    //do this
+```
 
 
 
