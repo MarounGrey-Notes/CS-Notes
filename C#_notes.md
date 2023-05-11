@@ -215,3 +215,36 @@ int b = ++a;
 | Or | \| | a | b |
 
 
+# Classes
+### Declaring Class
+```
+public class Person {  // access modifier( who can access this class), class keyword, identifier (Person)
+  // Inside this code block we can have variables (fields)
+  public string Name;
+  // Classes can also contain methods:
+  public void Introduce()
+  {
+    Console.WriteLine("Hi, my name is " + Name);
+   }
+}
+```
+### Declaring Objects
+```
+// Start with the type and identifier, then allocate memory for that object (new operator)
+var person = new Person();
+person.Name = "Maroun";
+person.Introduce();
+```
+### Static Modifier
+```
+public class Calculator
+{
+  public static int Add(int a, int b)
+  {
+    return a+b;
+  }
+}
+int result = Calculator.Add(1, 2);
+// static is accessible from class, but not the object
+```
+
