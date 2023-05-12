@@ -327,8 +327,78 @@ public enum ShippingMethod
 }
 ```
 # Parsing
-** Parcing ** - converting the string to another type.
+**Parcing** - converting the string to another type.
 
 
+# Conditional Statements
+### if / else
+```
+if (condition)
+{
+  someStatement
+ } 
+else if (condition)
+{ 
+ anotherStatement
+}
+else 
+{
+  someOtherStatement
+}
+```
+### Switch / Case
+Use switch instead of bunch 'else if' statements.
+```
+switch(role)
+{
+  case Role.Admin:
+    ...
+    break;
+  case Role.Moderator:
+    ...
+    break;
+  default:
+    ...
+    break;
+}
+```
+### Conditional operator: a ? b : c
+If `a` is true then `b`, else `c`
 
+# Iteration Statements
+### For
+```
+for (var i = 0; i < 10; i++) {
+  ...
+}
+```
+### Foreach
+Used to iterate over elements of an innumerable object (anything that has some kind of list or array)
+* Local temporary variable (number)
+* List or object that we are iterating (numbers)
+```
+foreach (var number in numbers)
+{
+  ...
+}
+```
+### While
+```
+while (i<10) 
+{
+...
+i++;
+}
+```
+### Do-while
+```
+do 
+{
+  ...
+  i++;
+} while (i < 10);
+```
+### Break and Continue 
+* Break: jump out of the loop
+* continue: jump to the next iteration
 
