@@ -263,7 +263,7 @@ There is not much difference between Classes and Structures, so use Struct when 
 
 # Array
 
-** Array ** - A data structure to store a collection of variables of the same type.
+**Array** - A data structure to store a collection of variables of the same type.
 
 ### Declaring array
 ```
@@ -273,7 +273,7 @@ var numbers = new int[3]; { 1, 2, 3 } // if we already know the values we want t
 
 # Strings
 
-** String ** - a sequence if characters.
+**String** - a sequence if characters.
 
 ## Creating strings
 ```
@@ -328,6 +328,25 @@ public enum ShippingMethod
 ```
 # Parsing
 **Parcing** - converting the string to another type.
+The int.TryParse() method has two parameters:
+  1. The first parameter is the string to be parsed as an integer.
+  2. The second parameter is an output parameter that is used to store the parsed integer value if the parse is successful.
+
+
+Example of parsing the string as integer:
+```
+string input = "42";
+int number;
+
+if (int.TryParse(input, out number))
+{
+    Console.WriteLine("Parsed number: " + number);
+}
+else
+{
+    Console.WriteLine("Invalid input.");
+}
+```
 
 
 # Conditional Statements
@@ -363,7 +382,7 @@ switch(role)
 }
 ```
 ### Conditional operator: a ? b : c
-If `a` is true then `b`, else `c`
+If `a` is true then do `b`, else `c`
 
 # Iteration Statements
 ### For
@@ -402,3 +421,10 @@ do
 * Break: jump out of the loop
 * continue: jump to the next iteration
 
+# Random Class
+```
+{ 
+ var random = new Random(); 
+ random.Next(); 
+}
+```
