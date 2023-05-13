@@ -428,3 +428,54 @@ do
  random.Next(); 
 }
 ```
+
+# Arrays
+**Array** - Represents a fixed number of variables of a particular type.
+
+### Single Dimention Arrays 
+```
+var numbers = new int[5];
+var numbers = new int[5]{1, 2, 3, 4, 5};
+```
+### Multi Dimentional Arrays
+##### Rectangular
+```
+0 1 2 3 4
+0 1 2 3 4        3x5
+0 1 2 3 4
+```
+Syntax:
+```
+//Rectangular 2D
+var matrix = new int[3, 5];
+var matrix = new int[3, 5]
+{
+  { 1, 2, 3, 4, 5 },
+  { 6, 7, 8, 9, 10},
+  { 11, 12, 13, 14, 15 }
+};
+
+var element = matrix[0, 0]; //To access elemet from array
+
+//Rectangular 3D
+var colors = new int[3, 5, 4];
+
+```
+##### Jagged
+```
+0 1 2 3
+0 1 2 3 4
+0 1 2
+```
+Syntax:
+```
+var array = new int[3][];
+
+array[0] = new int[4];
+array[1] = new int[5];
+array[2] = new int[3];
+
+//To access elemet in the array:
+array[0][0] = 1;
+```
+
