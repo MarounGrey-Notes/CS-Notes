@@ -478,4 +478,42 @@ array[2] = new int[3];
 //To access elemet in the array:
 array[0][0] = 1;
 ```
+### Some of the Array methods
+```
+var numbers = new[] { 1, 2, 3, 4, 5, };
 
+//Length
+//Returns number of elements in Array
+Console.WriteLine(numbers.Length); //5
+
+//IndexOf
+//Returns the index of the element in array
+var index = Array.IndexOf(numbers, 3);
+Console.WriteLine(index); //2
+
+//Clear()
+//Clears elements in array: sets numbers to 0, booleans to false, strings to null
+Array.Clear(numbers, 0, 2); //name of the array, starting index, number of items to clear
+foreach (var n in numbers) Console.WriteLine(n);  //0 0 3 4 5
+
+//Copy
+//Copies elements of one array to another
+int[] another = new int[3];
+Array.Copy(numbers, another, 3); //src array, destination, num of elements to copy
+foreach (var n in another) Console.WriteLine(n); //0 0 3
+
+//Sort()
+//Sorts elements in ascending order
+Array.Sort(numbers);
+foreach (var n in numbers) Console.WriteLine(n); //0 0 3 4 5
+
+//Reverse()
+//Sorts elements in descending order
+Array.Reverse(numbers);
+Array.Sort(numbers);
+foreach (var n in numbers) Console.WriteLine(n); //5 4 3 0 0       
+            
+```
+
+# Lists
+Lists are similar to arrays, however while arrays have fixed sizes, lists have dynamic sizes
