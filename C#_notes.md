@@ -516,4 +516,18 @@ foreach (var n in numbers) Console.WriteLine(n); //5 4 3 0 0
 ```
 
 # Lists
-Lists are similar to arrays, however while arrays have fixed sizes, lists have dynamic sizes
+Lists are similar to arrays, however while arrays have fixed sizes, lists are used when you're not sure how many objects you are going to store in it.
+### Creating Lists
+```
+var numbers = new List<int>();
+var numbers = new List<int>() { 1, 2, 3, 4 };
+```
+Common methods for the lists:
+* Add() [To add an object to the list]
+* AddRange() [To add more than 1 object or a list of objects, that can be another list or an array]
+* Remove() [To remove an object from the list]
+* RemoveAlt() [To remove the object at a given index]
+* IndexOf() [returns index of a given object]
+* Contains() [Tells if the list contains the given object or not]
+* Count [returns the number of the objects in the list]
+
