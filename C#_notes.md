@@ -531,3 +531,45 @@ Common methods for the lists:
 * Contains() [Tells if the list contains the given object or not]
 * Count [returns the number of the objects in the list]
 
+# Working with Dates
+### DateTime
+```
+var dateTime = new DateTime(2015, 1, 1); //January 1st 2015
+var now = DateTime.Now; //Access current date
+var today = DateTime.Today; //Access today
+
+Console.WriteLine(now.Hour);
+Console.WriteLine(now.Minute);
+
+var tomorrow = now.AddDays(1); //access tomorrow by adding day
+var yesterday = now.AddDays(-1);
+
+Console.WriteLine(now.ToString()); // 23/05/2015 12:43:51 PM
+Console.WriteLine(now.ToLongDateString()); // Saturday, 23 May 2015
+Console.WriteLine(now.ToShortDateString()); // 23/05/2015
+Console.WriteLine(now.ToLongTimeDateString()); // 12:43:51 PM
+Console.WriteLine(now.ToShortTimeDateString()); // 12:43 PM
+```
+### TimeSpan
+```
+var timeSpan = new TimeSpan(1, 2, 3); // 1 hour, 2 minutes, 3 seconds
+var timeSpan1 = new TimeSpan(1, 0, 0); // 1hour, 0 min, 0 sec
+var timeSpan2 = TimeSpan.FromHours(1);
+
+var start = DateTime.Now;
+var end = DateTime.Now.AddMinutes(2);
+var duration = end - start; 
+Console.WriteLine(duration); // returns time span. In this case 2 min
+
+
+Console.WriteLine("Minutes: " + timeSpan.Minutes); // returns minutes component of the timeSpan obj. In this case 2 [bcs TimeSpan(1, 2, 3)]
+Console.WriteLine("Total Minutes: " + timeSpan.TotalMinutes); // converts TimeSpan obj to minutes. In this case its 62.05 (bcs 1 hour, 2 min, 3 sec = 62 min)
+
+
+Console.WriteLine("Add Example: " + timeSpan.Add(TimeSpan.FromMinutes(8))); // adding 8 mins to original timeSpan
+Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(2))); // Subtracting 2 mins to original timeSpan
+
+
+Console.WriteLine("ToString: " + timeSpan.ToString()); //Converting date to string
+Console.WriteLine("Parse: " + timeSpan.Parse("01:02:03")); //parsing string into date object
+```
