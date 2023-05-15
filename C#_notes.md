@@ -573,3 +573,57 @@ Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(
 Console.WriteLine("ToString: " + timeSpan.ToString()); //Converting date to string
 Console.WriteLine("Parse: " + timeSpan.Parse("01:02:03")); //parsing string into date object
 ```
+# Working with Text
+### Formatting
+```
+ToLover() //"hello world"
+ToUpper() // "HELLO WORLD"
+Trim() // Gets rid of white spaces around the string
+```
+### Searching
+```
+//return first or last occurence of the given string
+IndexOf("a");
+LastIndexOf("Hello");
+```
+### Substrings
+```
+Substring(startIndex) //takes startIndex, retrieves all the characters from that point to the end of the string
+Substring(startIndex, length) //same thing but it takse length parameter to limit the number of characters to retrieve
+```
+### Replacing
+```
+Replace('a', '!')
+Replace("maroun", "maroony")
+```
+### Null Checking
+```
+String.IsNullOrEmpty(str)
+String.IsNllOrWhiteSpace(str)
+```
+### Splitting
+```
+str.Split(' ');
+```
+### Converting Strings to Numbers
+```
+string s = "1234";
+int i = int.Parse(s);
+int j = Convert.ToInt32(s);
+```
+### Converting Numbers to Strings
+```
+int i = 1234;
+
+string s = i.ToString();       // "1234"
+string t = i.ToString("C");    // "$1,234.00"
+string t = i.ToString("C0");   // "$1,234"
+```
+### Format Strings
+| Format or Specifier | Description | Example |
+| :-----------------: | :---------: | :-----: |
+| **c** or **C**      | Currency    | 123456 (C) -> $123,456 |
+| **d** or **D**      | Decimal     | 1234 (D6) -> 001234 |
+| **e** or **E**      | Exponential | 1052.0329112756 (E) -> 1.052033E+003 |
+| **f** or **F**      | Fixed Point | 1234.567 (F1) -> 1234.5 |
+| **x** or **X**      | Hexadecimal | 255 (X) -> FF |
