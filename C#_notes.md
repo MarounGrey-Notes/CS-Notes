@@ -627,3 +627,20 @@ string t = i.ToString("C0");   // "$1,234"
 | **e** or **E**      | Exponential | 1052.0329112756 (E) -> 1.052033E+003 |
 | **f** or **F**      | Fixed Point | 1234.567 (F1) -> 1234.5 |
 | **x** or **X**      | Hexadecimal | 255 (X) -> FF |
+
+### StringBuilder
+Represents mutable string, but not optimised for searching
+
+Some of the methods:
+```
+var builder = new StringBuilder();
+builder.Append('-', 10); //repeats - 10 times
+builder.AppendLine(); // new line
+builder.Append("Header"); //outputs Header
+
+builder.Replace('-', '+'); //replaces all the - above to +
+builder.Remove(0, 10); // removes 10 characters
+builder.Insert(5, "a") // inserts a at the index 5
+
+Console.WriteLine(builder[0]); // displays 1st character
+```
