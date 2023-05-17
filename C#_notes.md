@@ -1,7 +1,10 @@
+# Terms to know
+**Procedural Programming** - paradigm based on procedure calls.
+
 # C# vs .NET
 * C# is a programming language
 * .Net is a framework for building applications on Windows
-.Net consists of two components: CLR (Common Language Runtime) and Class Library
+* .NET consists of two components: CLR (Common Language Runtime) and Class Library.
 
 # CLR (Common Language runtime)
 The CLR is like a virtual machine that runs .NET applications. It takes care of important tasks like managing memory, handling errors, and making sure that the application runs securely. It also helps improve performance by compiling the code just before it is executed. All in all, the CLR is an essential part of the .NET framework that makes it easier and safer to develop applications.
@@ -261,54 +264,7 @@ public struct RgbColor
 ```
 There is not much difference between Classes and Structures, so use Struct when declaring a small lightweight object (like this rgb color).
 
-# Array
-
-**Array** - A data structure to store a collection of variables of the same type.
-
-### Declaring array
-```
-int[] numbers = new int[3];
-var numbers = new int[3]; { 1, 2, 3 } // if we already know the values we want to put in array;
-```
-
-# Strings
-
-**String** - a sequence if characters.
-
-## Creating strings
-```
-string firstName = "Maroun"; //using string literal
-string name = firstName + " " + lastName; //using string concatenation
-string name = string.Format("{0} {1}", firstName, lastName); //using string format
-
-var numbers = new int[3] {1, 2, 3};
-string list = string.Join(",", numbers);   //using string join
-```
-
-## String Elements
-```
-string name = "Maroun";
-char firstChar = name[0]; //firstChar = "M"
-```
-
-### Strings are immutable - Once you created them, you can't change them.
-
-| Char | Description |
-| :---: | :---: | 
-| \n | New Line | 
-| \t | Tab |
-| \\\ | Backslash |
-| \\' | Single Quotation Mark |
-| \\" | Double Quotation Mark |
-
-### Verbatim Strings
-```
-string path = "c:\\projects\\project1\\folder1"; //when you have case like this
-string path = @"c:\projects\project1\folder1"    //do this
-```
-
-### Enum
-
+# Enum
 **Enum** - A set name/value pairs (constants)
 
 Use enum where you see a number of related constants. For example:
@@ -326,27 +282,7 @@ public enum ShippingMethod
    Express = 3;
 }
 ```
-# Parsing
-**Parcing** - converting the string to another type.
-The int.TryParse() method has two parameters:
-  1. The first parameter is the string to be parsed as an integer.
-  2. The second parameter is an output parameter that is used to store the parsed integer value if the parse is successful.
 
-
-Example of parsing the string as integer:
-```
-string input = "42";
-int number;
-
-if (int.TryParse(input, out number))
-{
-    Console.WriteLine("Parsed number: " + number);
-}
-else
-{
-    Console.WriteLine("Invalid input.");
-}
-```
 
 
 # Conditional Statements
@@ -428,9 +364,15 @@ do
  random.Next(); 
 }
 ```
+# Array
 
-# Arrays
-**Array** - Represents a fixed number of variables of a particular type.
+**Array** - Represents a fixed number of variables of a particular type. It's a data structure to store a collection of variables of the same type. 
+
+### Declaring array
+```
+int[] numbers = new int[3];
+var numbers = new int[3]; { 1, 2, 3 } // if we already know the values we want to put in array;
+```
 
 ### Single Dimention Arrays 
 ```
@@ -573,7 +515,40 @@ Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(
 Console.WriteLine("ToString: " + timeSpan.ToString()); //Converting date to string
 Console.WriteLine("Parse: " + timeSpan.Parse("01:02:03")); //parsing string into date object
 ```
-# Working with Text
+# Working Strings
+**String** - a sequence if characters.
+
+## Creating strings
+```
+string firstName = "Maroun"; //using string literal
+string name = firstName + " " + lastName; //using string concatenation
+string name = string.Format("{0} {1}", firstName, lastName); //using string format
+
+var numbers = new int[3] {1, 2, 3};
+string list = string.Join(",", numbers);   //using string join
+```
+
+## String Elements
+```
+string name = "Maroun";
+char firstChar = name[0]; //firstChar = "M"
+```
+
+### Strings are immutable - Once you created them, you can't change them.
+
+| Char | Description |
+| :---: | :---: | 
+| \n | New Line | 
+| \t | Tab |
+| \\\ | Backslash |
+| \\' | Single Quotation Mark |
+| \\" | Double Quotation Mark |
+
+### Verbatim Strings
+```
+string path = "c:\\projects\\project1\\folder1"; //when you have case like this
+string path = @"c:\projects\project1\folder1"    //do this
+```
 ### Formatting
 ```
 ToLover() //"hello world"
@@ -596,6 +571,12 @@ Substring(startIndex, length) //same thing but it takse length parameter to limi
 Replace('a', '!')
 Replace("maroun", "maroony")
 ```
+### Join 
+```
+string[] array = { "Hello", "World", "!" };
+string joinedString = string.Join(" ", array); //HelloWorld
+```
+
 ### Null Checking
 ```
 String.IsNullOrEmpty(str)
@@ -604,6 +585,28 @@ String.IsNllOrWhiteSpace(str)
 ### Splitting
 ```
 str.Split(' ');
+```
+
+## Parsing
+**Parcing** - converting the string to another type.
+The int.TryParse() method has two parameters:
+  1. The first parameter is the string to be parsed as an integer.
+  2. The second parameter is an output parameter that is used to store the parsed integer value if the parse is successful.
+
+
+Example of parsing the string as integer:
+```
+string input = "42";
+int number;
+
+if (int.TryParse(input, out number))
+{
+    Console.WriteLine("Parsed number: " + number);
+}
+else
+{
+    Console.WriteLine("Invalid input.");
+}
 ```
 ### Converting Strings to Numbers
 ```
@@ -645,6 +648,4 @@ builder.Insert(5, "a") // inserts a at the index 5
 Console.WriteLine(builder[0]); // displays 1st character
 ```
 
-# Procedural Programming
-**Procedural Programming** - paradigm based on procedure calls.
 
