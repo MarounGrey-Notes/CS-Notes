@@ -648,4 +648,39 @@ builder.Insert(5, "a") // inserts a at the index 5
 Console.WriteLine(builder[0]); // displays 1st character
 ```
 
+# Working with Files
+In .Net we have a namespace that is called System.IO, that's where all these classes to work with files and directories are located. The most common classes include:
+
+####File, FileInfo 
+Provide methods for creating, copying, deleting, moving, and opening of files. <br>
+**FileInfo** provides **instance** methods, whereas **File** provides **static** methods.
+```
+Create();
+Copy();
+Delete();
+Exists()
+GetAttributes();
+Move();
+ReadAllText();
+```
+#### Directory, DirectoryInfo 
+
+**Directory** provides **static** methods, **DirectoryInfo** provides **instance** methods
+```
+CreateDirectory
+Delete();
+Exists()
+GetCurrentDirectory();
+GetFiles();
+Move();
+GetLogicalDrives();
+```
+#### Path
+```
+GetDirectoryName()
+GetFileName()
+GetExtention()
+GetTempPath()
+```
+
 
