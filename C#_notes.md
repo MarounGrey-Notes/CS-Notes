@@ -644,3 +644,7 @@ builder.Insert(5, "a") // inserts a at the index 5
 
 Console.WriteLine(builder[0]); // displays 1st character
 ```
+
+# Procedural Programming
+**Procedural Programming** - paradigm based on procedure calls.
+
