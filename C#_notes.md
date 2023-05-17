@@ -368,17 +368,12 @@ do
 
 **Array** - Represents a fixed number of variables of a particular type. It's a data structure to store a collection of variables of the same type. 
 
-### Declaring array
+### Declaring Single Dimention Arrays 
 ```
 int[] numbers = new int[3];
 var numbers = new int[3]; { 1, 2, 3 } // if we already know the values we want to put in array;
 ```
 
-### Single Dimention Arrays 
-```
-var numbers = new int[5];
-var numbers = new int[5]{1, 2, 3, 4, 5};
-```
 ### Multi Dimentional Arrays
 ##### Rectangular
 ```
