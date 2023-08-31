@@ -678,4 +678,105 @@ GetExtention()
 GetTempPath()
 ```
 
+# Classes
+Class - building block of software application <br>
+Object - instance of a class <br>
 
+Creating class:
+```
+public class Person
+{
+  public string Name;
+  public void Introduce(); //void means it doesnt return anything
+  {
+  Console.WriteLine("Hi, myy name is " + Name);  //use shortcut  cw+tab
+  }
+}
+```
+
+Creating Object:
+```
+var person = new Person();  //Or "Person person = new Person();"
+
+person.Name = "Maroun";
+person.Introduce();
+```
+
+### Class Members
+Instance - accessible from an object:
+```
+var person = new Person();
+person.Name = "Maroun"
+```
+Static - accessible from the class
+```
+Console.Writeline();
+```
+
+# Constructors
+Constructor - method which is called when the instance of a class is created. Constructor always has the same name as Class
+
+Why - To put an object in early state
+How:
+```
+ public class Customer
+ {
+     public Customer() {}
+ }
+```
+Constructor Overloading:
+```
+public class Customer
+{
+    public int Id;
+    public string Name;
+    public List<Order> Orders;   //Generic class for list of objects
+
+    public Customer()
+    {
+        Orders = new List<Order>();   //initialize the empty list inside the empty constructor
+    }
+    public Customer(int id)
+        : this()   //before the next line executes its going to call empty constructor
+    {
+        this.Id = id;
+    }
+
+    public Customer(int id, string name)
+        : this(id)   //before the next line executes its going to call previous constructor
+    {
+        this.Id = id;
+        this.Name = name;
+    }
+}
+```
+
+# Object initializers
+Its a syntax for quickly initializing an object without the need to call one of its constructors (to avoid creating multiple constructors)
+```
+//For example we have a class Person
+public class Person
+{
+  public int Id;
+  public string FirstName;
+  public string LastName;
+  public DateTime Birthdate;
+}
+
+//So, we may end up with a bunch of constructors like this:
+public class Person
+{
+  public Person (int Id) {}
+  public Person (int Id, string FirstName) {}
+  public Person (int Id, string FirstName, string LastName) {}
+  public Person (int Id, DateTime Birthdate) {}
+}
+
+//With Object initializer we dont need any of these constructors, we can simply initialize object like this:
+var person = new Person
+                {
+                  FirstName = "Maroun";
+                  LastName = "Barqawi";
+                };
+//behind the scenes the default(parameterless) constructor is going to be called and then any properties you set above will be initialized
+``` 
