@@ -95,3 +95,24 @@ Note: Arrow functions do not have their *arguments objects* nor *this* keyword. 
 ![alt text](https://github.com/MarounGrey-Repos/Pics/blob/main/Screenshot%202022-05-10%20220906.png?raw=true)
 
 
+-------
+
+# Time complexity
+
+```
+const large = new Array(100).fill('nemo') //Creates array of 100 items and fills it with 'nemo'
+
+function findNemo(array) {
+    let t0 = performance.now() //timer at the beginning of the function
+    for (let i = 0; i < array.length; i++) {
+        if (array[i] === 'nemo') {
+            console.log('found Nemo');
+        }
+    }
+    let t1 = performance.now() //timer at the end of the function
+    console.log('Call to find Nemo took ' + (t1-t0) + 'ms');
+}
+
+findNemo(large);
+```
+Time that it takes to run the function depends on CPU, what other programs are curently running on the computer, programming languge and many other things.
