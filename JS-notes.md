@@ -97,22 +97,112 @@ Note: Arrow functions do not have their *arguments objects* nor *this* keyword. 
 
 -------
 
-# Time complexity
+# Different ways to write loops in JavaScript
+Here are some common ways to iterate loops in JavaScript along with code examples:
 
-```
-const large = new Array(100).fill('nemo') //Creates array of 100 items and fills it with 'nemo'
+**for loop**
 
-function findNemo(array) {
-    let t0 = performance.now() //timer at the beginning of the function
-    for (let i = 0; i < array.length; i++) {
-        if (array[i] === 'nemo') {
-            console.log('found Nemo');
-        }
-    }
-    let t1 = performance.now() //timer at the end of the function
-    console.log('Call to find Nemo took ' + (t1-t0) + 'ms');
+```js
+for(let i = 0; i < arr.length; i++) {
+  // Prints each array element  
+  console.log(arr[i]);
 }
-
-findNemo(large);
 ```
-Time that it takes to run the function depends on CPU, what other programs are curently running on the computer, programming languge and many other things.
+
+**while loop**
+
+```js 
+let i = 0;
+while(i < arr.length) {
+  console.log(arr[i]);
+  i++;
+}
+```
+
+**forEach**
+
+```js
+arr.forEach(function(element) {
+  console.log(element);
+});
+```
+
+**for...of loop** 
+
+```js
+for(let element of arr) {
+  console.log(element); 
+}
+```
+
+**for...in loop**
+
+```js
+for(let index in arr) {
+  console.log(arr[index]);
+} 
+```
+
+**map**
+
+```js
+arr.map(element => {
+  console.log(element);
+});
+```
+
+So in summary, for loops, while loops, forEach, for..of, for..in, and maps allow iterating in different ways useful in different situations.
+
+Here are arrow function versions for some of the loop constructs in JavaScript:
+
+**forEach**
+
+```js 
+arr.forEach(element => {
+  console.log(element); 
+});
+```
+
+**map**
+
+```js
+arr.map(element => {
+  return element * 2;  
+});
+```
+
+**forEach with index**
+
+```js
+arr.forEach((element, index) => {
+  console.log(index, element);
+});
+```
+
+**filter**
+
+```js
+const filtered = arr.filter(num => {
+  return num > 5; 
+});
+``` 
+
+**find**
+
+```js 
+const found = arr.find(el => {
+  return el.id === 100;
+});
+```
+
+**reduce** 
+
+```js
+const sum = arr.reduce((accumulator, current) => {
+  return accumulator + current;
+}, 0);
+```
+
+Arrow functions provide a concise way to supply anonymous callback functions, especially for array functional methods like map, filter, reduce etc.
+
+
