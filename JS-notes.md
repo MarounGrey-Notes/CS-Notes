@@ -209,6 +209,8 @@ Arrow functions provide a concise way to supply anonymous callback functions, es
 
 ## Example of the coding problem
 Given 2 arrays check if they contain the same letter, if they do return true, othervise return false.
+* are inputs always arrays?
+* how large are the arrays gonna get?
 ### Solve a problem with O(n^2) [O(arr1*arr2)]
 ```
 arr1 = ['a', 'b', 'c', 'x'];
