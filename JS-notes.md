@@ -264,7 +264,10 @@ arr2 = ['z', [], 'a'];
 
 //What if only arr1 was given, but not the arr2?
 ```
-#### Check if yyou r code has meaningful variable names, discuss how would you improve it
+#### Check if your code has meaningful variable names, discuss how would you improve it
 ```
 //for example, Instead of arr1 and arr2 I could use users and items
 ```
+#### Check if the code is readable. Discuss how would you modularize it (break it down into several functions)
+
+
