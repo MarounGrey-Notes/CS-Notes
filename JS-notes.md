@@ -211,8 +211,9 @@ Arrow functions provide a concise way to supply anonymous callback functions, es
 Given 2 arrays check if they contain the same letter, if they do return true, othervise return false.
 * are inputs always arrays?
 * how large are the arrays gonna get?
+* Can we assume always 2 parameters?
 ### Solve a problem with O(n^2) [O(arr1*arr2)]
-```
+```js
 arr1 = ['a', 'b', 'c', 'x'];
 arr2 = ['z', 'y', 'a'];
 
@@ -226,7 +227,7 @@ for (let i = 0; i < arr1.length; i++) {
 return false
 ```
 #### Solve a problem with better performance, O(n) [O(arr1+arr2)]
-```
+```js
 arr1 = ['a', 'b', 'c', 'x'];
 arr2 = ['z', 'y', 'a'];
 
@@ -243,4 +244,27 @@ for (let j=0; j < arr2.length; j++) {
     }
 }
 return false;
+```
+#### After you coded the solution try to check your code. Tell the interviewer a possible ways around the issues that you found, or how would you fix it
+```js
+// Does this still work
+arr1 = ['a', 'a', 'a', 'x'];
+
+//What about this?
+arr1 = ['a', 'b', 2, 'x'];
+arr2 = ['z', 2, 'a'];
+
+//How about this one?
+arr1 = ['a', null, 'c', 'x'];
+arr2 = ['z', null, 'a'];
+
+//This will work btw bcs in JavaScrtipt Object properties turned into strings when created
+arr1 = ['a', [], 2, 'x'];
+arr2 = ['z', [], 'a'];
+
+//What if only arr1 was given, but not the arr2?
+```
+#### Check if yyou r code has meaningful variable names, discuss how would you improve it
+```
+//for example, Instead of arr1 and arr2 I could use users and items
 ```
