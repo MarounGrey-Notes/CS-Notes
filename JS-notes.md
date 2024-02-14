@@ -205,4 +205,40 @@ const sum = arr.reduce((accumulator, current) => {
 
 Arrow functions provide a concise way to supply anonymous callback functions, especially for array functional methods like map, filter, reduce etc.
 
+------
 
+## Example of the coding problem
+Given 2 arrays check if they contain the same letter, if they do return true, othervise return false.
+### Solve a problem with O(n^2) [O(arr1*arr2)]
+```
+arr1 = ['a', 'b', 'c', 'x'];
+arr2 = ['z', 'y', 'a'];
+
+for (let i = 0; i < arr1.length; i++) {
+    for (let j = 0; j < arr2.length; j++) {
+        if (arr1[i] === arr2[i]) {
+            return true;
+        }
+    }
+}
+return false
+```
+#### Solve a problem with better performance, O(n) [O(arr1+arr2)]
+```
+arr1 = ['a', 'b', 'c', 'x'];
+arr2 = ['z', 'y', 'a'];
+
+let map = {};
+for (let i = 0; i < arr1.length; i++) {
+    if(!map[arr1[i]]) {
+        const item = arr1[i];
+        map[item] = true;
+    }
+}
+for (let j=0; j < arr2.length; j++) {
+    if (map[arr2[i]]) {
+        return true;
+    }
+}
+return false;
+```
